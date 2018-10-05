@@ -1,0 +1,6 @@
+[submodule "GreenhouseIOTApp"]
+	path = GreenhouseIOTApp
+	url = https://github.com/Jeremy38100/GreenhouseIOTApp.git
+[submodule "GreenhouseIOTServer"]
+	path = GreenhouseIOTServer
+	url = https://github.com/Jeremy38100/GreenhouseIOTServer.git
