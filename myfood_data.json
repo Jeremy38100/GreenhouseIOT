@@ -1,0 +1,6002 @@
+[
+  {
+    "Id": 13632325,
+    "captureDate": "2018-10-11T08:09:46.513",
+    "value": 7.90,
+    "sensor": "pH Sensor"
+  },
+  {
+    "Id": 13632326,
+    "captureDate": "2018-10-11T08:09:46.513",
+    "value": 18.60,
+    "sensor": "Water Temperature Sensor"
+  },
+  {
+    "Id": 13632327,
+    "captureDate": "2018-10-11T08:09:46.513",
+    "value": 20.30,
+    "sensor": "Air Temperature Sensor"
+  },
+  {
+    "Id": 13632328,
+    "captureDate": "2018-10-11T08:09:46.513",
+    "value": 64.40,
+    "sensor": "Air Humidity Sensor"
+  },
+  {
+    "Id": 13632329,
+    "captureDate": "2018-10-11T08:09:46.513",
+    "value": 15.47,
+    "sensor": "External Air Temperature"
+  },
+  {
+    "Id": 13632330,
+    "captureDate": "2018-10-11T08:09:46.513",
+    "value": 87.00,
+    "sensor": "External Air Humidity"
+  },
+  {
+    "Id": 13632010,
+    "captureDate": "2018-10-11T07:59:46.283",
+    "value": 87.00,
+    "sensor": "External Air Humidity"
+  },
+  {
+    "Id": 13632009,
+    "captureDate": "2018-10-11T07:59:46.283",
+    "value": 14.99,
+    "sensor": "External Air Temperature"
+  },
+  {
+    "Id": 13632008,
+    "captureDate": "2018-10-11T07:59:46.283",
+    "value": 72.90,
+    "sensor": "Air Humidity Sensor"
+  },
+  {
+    "Id": 13632007,
+    "captureDate": "2018-10-11T07:59:46.283",
+    "value": 19.70,
+    "sensor": "Air Temperature Sensor"
+  },
+  {
+    "Id": 13632006,
+    "captureDate": "2018-10-11T07:59:46.283",
+    "value": 18.60,
+    "sensor": "Water Temperature Sensor"
+  },
+  {
+    "Id": 13632005,
+    "captureDate": "2018-10-11T07:59:46.283",
+    "value": 7.80,
+    "sensor": "pH Sensor"
+  },
+  {
+    "Id": 13631677,
+    "captureDate": "2018-10-11T07:49:46.303",
+    "value": 7.80,
+    "sensor": "pH Sensor"
+  },
+  {
+    "Id": 13631678,
+    "captureDate": "2018-10-11T07:49:46.303",
+    "value": 18.40,
+    "sensor": "Water Temperature Sensor"
+  },
+  {
+    "Id": 13631679,
+    "captureDate": "2018-10-11T07:49:46.303",
+    "value": 18.50,
+    "sensor": "Air Temperature Sensor"
+  },
+  {
+    "Id": 13631680,
+    "captureDate": "2018-10-11T07:49:46.303",
+    "value": 75.60,
+    "sensor": "Air Humidity Sensor"
+  },
+  {
+    "Id": 13631681,
+    "captureDate": "2018-10-11T07:49:46.303",
+    "value": 14.99,
+    "sensor": "External Air Temperature"
+  },
+  {
+    "Id": 13631682,
+    "captureDate": "2018-10-11T07:49:46.303",
+    "value": 87.00,
+    "sensor": "External Air Humidity"
+  },
+  {
+    "Id": 13631360,
+    "captureDate": "2018-10-11T07:39:46.237",
+    "value": 93.00,
+    "sensor": "External Air Humidity"
+  },
+  {
+    "Id": 13631359,
+    "captureDate": "2018-10-11T07:39:46.237",
+    "value": 13.99,
+    "sensor": "External Air Temperature"
+  },
+  {
+    "Id": 13631358,
+    "captureDate": "2018-10-11T07:39:46.237",
+    "value": 78.10,
+    "sensor": "Air Humidity Sensor"
+  },
+  {
+    "Id": 13631357,
+    "captureDate": "2018-10-11T07:39:46.237",
+    "value": 18.30,
+    "sensor": "Air Temperature Sensor"
+  },
+  {
+    "Id": 13631356,
+    "captureDate": "2018-10-11T07:39:46.237",
+    "value": 18.30,
+    "sensor": "Water Temperature Sensor"
+  },
+  {
+    "Id": 13631355,
+    "captureDate": "2018-10-11T07:39:46.237",
+    "value": 7.80,
+    "sensor": "pH Sensor"
+  },
+  {
+    "Id": 13631033,
+    "captureDate": "2018-10-11T07:29:46.523",
+    "value": 7.70,
+    "sensor": "pH Sensor"
+  },
+  {
+    "Id": 13631034,
+    "captureDate": "2018-10-11T07:29:46.523",
+    "value": 18.30,
+    "sensor": "Water Temperature Sensor"
+  },
+  {
+    "Id": 13631035,
+    "captureDate": "2018-10-11T07:29:46.523",
+    "value": 18.30,
+    "sensor": "Air Temperature Sensor"
+  },
+  {
+    "Id": 13631036,
+    "captureDate": "2018-10-11T07:29:46.523",
+    "value": 78.60,
+    "sensor": "Air Humidity Sensor"
+  },
+  {
+    "Id": 13631037,
+    "captureDate": "2018-10-11T07:29:46.523",
+    "value": 13.99,
+    "sensor": "External Air Temperature"
+  },
+  {
+    "Id": 13631038,
+    "captureDate": "2018-10-11T07:29:46.523",
+    "value": 93.00,
+    "sensor": "External Air Humidity"
+  },
+  {
+    "Id": 13630728,
+    "captureDate": "2018-10-11T07:19:46.263",
+    "value": 93.00,
+    "sensor": "External Air Humidity"
+  },
+  {
+    "Id": 13630727,
+    "captureDate": "2018-10-11T07:19:46.263",
+    "value": 13.99,
+    "sensor": "External Air Temperature"
+  },
+  {
+    "Id": 13630726,
+    "captureDate": "2018-10-11T07:19:46.263",
+    "value": 79.60,
+    "sensor": "Air Humidity Sensor"
+  },
+  {
+    "Id": 13630725,
+    "captureDate": "2018-10-11T07:19:46.263",
+    "value": 18.10,
+    "sensor": "Air Temperature Sensor"
+  },
+  {
+    "Id": 13630724,
+    "captureDate": "2018-10-11T07:19:46.263",
+    "value": 18.30,
+    "sensor": "Water Temperature Sensor"
+  },
+  {
+    "Id": 13630723,
+    "captureDate": "2018-10-11T07:19:46.263",
+    "value": 7.70,
+    "sensor": "pH Sensor"
+  },
+  {
+    "Id": 13630401,
+    "captureDate": "2018-10-11T07:09:46.27",
+    "value": 7.70,
+    "sensor": "pH Sensor"
+  },
+  {
+    "Id": 13630402,
+    "captureDate": "2018-10-11T07:09:46.27",
+    "value": 18.30,
+    "sensor": "Water Temperature Sensor"
+  },
+  {
+    "Id": 13630403,
+    "captureDate": "2018-10-11T07:09:46.27",
+    "value": 17.50,
+    "sensor": "Air Temperature Sensor"
+  },
+  {
+    "Id": 13630404,
+    "captureDate": "2018-10-11T07:09:46.27",
+    "value": 80.70,
+    "sensor": "Air Humidity Sensor"
+  },
+  {
+    "Id": 13630405,
+    "captureDate": "2018-10-11T07:09:46.27",
+    "value": 13.99,
+    "sensor": "External Air Temperature"
+  },
+  {
+    "Id": 13630406,
+    "captureDate": "2018-10-11T07:09:46.27",
+    "value": 93.00,
+    "sensor": "External Air Humidity"
+  },
+  {
+    "Id": 13630098,
+    "captureDate": "2018-10-11T06:59:46.54",
+    "value": 93.00,
+    "sensor": "External Air Humidity"
+  },
+  {
+    "Id": 13630097,
+    "captureDate": "2018-10-11T06:59:46.54",
+    "value": 13.99,
+    "sensor": "External Air Temperature"
+  },
+  {
+    "Id": 13630094,
+    "captureDate": "2018-10-11T06:59:46.54",
+    "value": 83.10,
+    "sensor": "Air Humidity Sensor"
+  },
+  {
+    "Id": 13630093,
+    "captureDate": "2018-10-11T06:59:46.54",
+    "value": 16.80,
+    "sensor": "Air Temperature Sensor"
+  },
+  {
+    "Id": 13630091,
+    "captureDate": "2018-10-11T06:59:46.54",
+    "value": 18.30,
+    "sensor": "Water Temperature Sensor"
+  },
+  {
+    "Id": 13630089,
+    "captureDate": "2018-10-11T06:59:46.54",
+    "value": 7.60,
+    "sensor": "pH Sensor"
+  },
+  {
+    "Id": 13629765,
+    "captureDate": "2018-10-11T06:49:46.337",
+    "value": 7.60,
+    "sensor": "pH Sensor"
+  },
+  {
+    "Id": 13629766,
+    "captureDate": "2018-10-11T06:49:46.337",
+    "value": 18.30,
+    "sensor": "Water Temperature Sensor"
+  },
+  {
+    "Id": 13629767,
+    "captureDate": "2018-10-11T06:49:46.337",
+    "value": 16.30,
+    "sensor": "Air Temperature Sensor"
+  },
+  {
+    "Id": 13629768,
+    "captureDate": "2018-10-11T06:49:46.337",
+    "value": 85.50,
+    "sensor": "Air Humidity Sensor"
+  },
+  {
+    "Id": 13629769,
+    "captureDate": "2018-10-11T06:49:46.337",
+    "value": 13.99,
+    "sensor": "External Air Temperature"
+  },
+  {
+    "Id": 13629770,
+    "captureDate": "2018-10-11T06:49:46.337",
+    "value": 93.00,
+    "sensor": "External Air Humidity"
+  },
+  {
+    "Id": 13629443,
+    "captureDate": "2018-10-11T06:39:46.203",
+    "value": 93.00,
+    "sensor": "External Air Humidity"
+  },
+  {
+    "Id": 13629442,
+    "captureDate": "2018-10-11T06:39:46.203",
+    "value": 13.99,
+    "sensor": "External Air Temperature"
+  },
+  {
+    "Id": 13629440,
+    "captureDate": "2018-10-11T06:39:46.203",
+    "value": 88.40,
+    "sensor": "Air Humidity Sensor"
+  },
+  {
+    "Id": 13629438,
+    "captureDate": "2018-10-11T06:39:46.203",
+    "value": 15.90,
+    "sensor": "Air Temperature Sensor"
+  },
+  {
+    "Id": 13629436,
+    "captureDate": "2018-10-11T06:39:46.203",
+    "value": 18.30,
+    "sensor": "Water Temperature Sensor"
+  },
+  {
+    "Id": 13629434,
+    "captureDate": "2018-10-11T06:39:46.203",
+    "value": 7.60,
+    "sensor": "pH Sensor"
+  },
+  {
+    "Id": 13629115,
+    "captureDate": "2018-10-11T06:29:46.293",
+    "value": 7.60,
+    "sensor": "pH Sensor"
+  },
+  {
+    "Id": 13629116,
+    "captureDate": "2018-10-11T06:29:46.293",
+    "value": 18.30,
+    "sensor": "Water Temperature Sensor"
+  },
+  {
+    "Id": 13629117,
+    "captureDate": "2018-10-11T06:29:46.293",
+    "value": 15.60,
+    "sensor": "Air Temperature Sensor"
+  },
+  {
+    "Id": 13629118,
+    "captureDate": "2018-10-11T06:29:46.293",
+    "value": 89.10,
+    "sensor": "Air Humidity Sensor"
+  },
+  {
+    "Id": 13629121,
+    "captureDate": "2018-10-11T06:29:46.293",
+    "value": 13.99,
+    "sensor": "External Air Temperature"
+  },
+  {
+    "Id": 13629123,
+    "captureDate": "2018-10-11T06:29:46.293",
+    "value": 93.00,
+    "sensor": "External Air Humidity"
+  },
+  {
+    "Id": 13628786,
+    "captureDate": "2018-10-11T06:19:46.407",
+    "value": 93.00,
+    "sensor": "External Air Humidity"
+  },
+  {
+    "Id": 13628785,
+    "captureDate": "2018-10-11T06:19:46.407",
+    "value": 13.99,
+    "sensor": "External Air Temperature"
+  },
+  {
+    "Id": 13628784,
+    "captureDate": "2018-10-11T06:19:46.407",
+    "value": 89.60,
+    "sensor": "Air Humidity Sensor"
+  },
+  {
+    "Id": 13628783,
+    "captureDate": "2018-10-11T06:19:46.407",
+    "value": 15.50,
+    "sensor": "Air Temperature Sensor"
+  },
+  {
+    "Id": 13628782,
+    "captureDate": "2018-10-11T06:19:46.407",
+    "value": 18.30,
+    "sensor": "Water Temperature Sensor"
+  },
+  {
+    "Id": 13628781,
+    "captureDate": "2018-10-11T06:19:46.407",
+    "value": 7.60,
+    "sensor": "pH Sensor"
+  },
+  {
+    "Id": 13628463,
+    "captureDate": "2018-10-11T06:09:46.437",
+    "value": 7.60,
+    "sensor": "pH Sensor"
+  },
+  {
+    "Id": 13628465,
+    "captureDate": "2018-10-11T06:09:46.437",
+    "value": 18.30,
+    "sensor": "Water Temperature Sensor"
+  },
+  {
+    "Id": 13628467,
+    "captureDate": "2018-10-11T06:09:46.437",
+    "value": 15.50,
+    "sensor": "Air Temperature Sensor"
+  },
+  {
+    "Id": 13628469,
+    "captureDate": "2018-10-11T06:09:46.437",
+    "value": 89.60,
+    "sensor": "Air Humidity Sensor"
+  },
+  {
+    "Id": 13628471,
+    "captureDate": "2018-10-11T06:09:46.437",
+    "value": 13.99,
+    "sensor": "External Air Temperature"
+  },
+  {
+    "Id": 13628473,
+    "captureDate": "2018-10-11T06:09:46.437",
+    "value": 93.00,
+    "sensor": "External Air Humidity"
+  },
+  {
+    "Id": 13628158,
+    "captureDate": "2018-10-11T05:59:46.333",
+    "value": 87.00,
+    "sensor": "External Air Humidity"
+  },
+  {
+    "Id": 13628157,
+    "captureDate": "2018-10-11T05:59:46.333",
+    "value": 13.99,
+    "sensor": "External Air Temperature"
+  },
+  {
+    "Id": 13628154,
+    "captureDate": "2018-10-11T05:59:46.333",
+    "value": 89.40,
+    "sensor": "Air Humidity Sensor"
+  },
+  {
+    "Id": 13628152,
+    "captureDate": "2018-10-11T05:59:46.333",
+    "value": 15.50,
+    "sensor": "Air Temperature Sensor"
+  },
+  {
+    "Id": 13628150,
+    "captureDate": "2018-10-11T05:59:46.333",
+    "value": 18.30,
+    "sensor": "Water Temperature Sensor"
+  },
+  {
+    "Id": 13628147,
+    "captureDate": "2018-10-11T05:59:46.333",
+    "value": 7.60,
+    "sensor": "pH Sensor"
+  },
+  {
+    "Id": 13627825,
+    "captureDate": "2018-10-11T05:49:46.24",
+    "value": 7.60,
+    "sensor": "pH Sensor"
+  },
+  {
+    "Id": 13627826,
+    "captureDate": "2018-10-11T05:49:46.24",
+    "value": 18.50,
+    "sensor": "Water Temperature Sensor"
+  },
+  {
+    "Id": 13627827,
+    "captureDate": "2018-10-11T05:49:46.24",
+    "value": 15.50,
+    "sensor": "Air Temperature Sensor"
+  },
+  {
+    "Id": 13627828,
+    "captureDate": "2018-10-11T05:49:46.24",
+    "value": 89.00,
+    "sensor": "Air Humidity Sensor"
+  },
+  {
+    "Id": 13627829,
+    "captureDate": "2018-10-11T05:49:46.24",
+    "value": 13.99,
+    "sensor": "External Air Temperature"
+  },
+  {
+    "Id": 13627830,
+    "captureDate": "2018-10-11T05:49:46.24",
+    "value": 87.00,
+    "sensor": "External Air Humidity"
+  },
+  {
+    "Id": 13627508,
+    "captureDate": "2018-10-11T05:39:46.653",
+    "value": 93.00,
+    "sensor": "External Air Humidity"
+  },
+  {
+    "Id": 13627507,
+    "captureDate": "2018-10-11T05:39:46.653",
+    "value": 13.99,
+    "sensor": "External Air Temperature"
+  },
+  {
+    "Id": 13627506,
+    "captureDate": "2018-10-11T05:39:46.653",
+    "value": 88.90,
+    "sensor": "Air Humidity Sensor"
+  },
+  {
+    "Id": 13627505,
+    "captureDate": "2018-10-11T05:39:46.653",
+    "value": 15.60,
+    "sensor": "Air Temperature Sensor"
+  },
+  {
+    "Id": 13627504,
+    "captureDate": "2018-10-11T05:39:46.653",
+    "value": 18.50,
+    "sensor": "Water Temperature Sensor"
+  },
+  {
+    "Id": 13627501,
+    "captureDate": "2018-10-11T05:39:46.653",
+    "value": 7.60,
+    "sensor": "pH Sensor"
+  },
+  {
+    "Id": 13627176,
+    "captureDate": "2018-10-11T05:29:46.483",
+    "value": 7.60,
+    "sensor": "pH Sensor"
+  },
+  {
+    "Id": 13627178,
+    "captureDate": "2018-10-11T05:29:46.483",
+    "value": 18.50,
+    "sensor": "Water Temperature Sensor"
+  },
+  {
+    "Id": 13627180,
+    "captureDate": "2018-10-11T05:29:46.483",
+    "value": 15.60,
+    "sensor": "Air Temperature Sensor"
+  },
+  {
+    "Id": 13627182,
+    "captureDate": "2018-10-11T05:29:46.483",
+    "value": 89.60,
+    "sensor": "Air Humidity Sensor"
+  },
+  {
+    "Id": 13627184,
+    "captureDate": "2018-10-11T05:29:46.483",
+    "value": 13.99,
+    "sensor": "External Air Temperature"
+  },
+  {
+    "Id": 13627186,
+    "captureDate": "2018-10-11T05:29:46.483",
+    "value": 93.00,
+    "sensor": "External Air Humidity"
+  },
+  {
+    "Id": 13626857,
+    "captureDate": "2018-10-11T05:19:46.257",
+    "value": 93.00,
+    "sensor": "External Air Humidity"
+  },
+  {
+    "Id": 13626855,
+    "captureDate": "2018-10-11T05:19:46.257",
+    "value": 13.99,
+    "sensor": "External Air Temperature"
+  },
+  {
+    "Id": 13626853,
+    "captureDate": "2018-10-11T05:19:46.257",
+    "value": 89.50,
+    "sensor": "Air Humidity Sensor"
+  },
+  {
+    "Id": 13626851,
+    "captureDate": "2018-10-11T05:19:46.257",
+    "value": 15.60,
+    "sensor": "Air Temperature Sensor"
+  },
+  {
+    "Id": 13626849,
+    "captureDate": "2018-10-11T05:19:46.257",
+    "value": 18.50,
+    "sensor": "Water Temperature Sensor"
+  },
+  {
+    "Id": 13626847,
+    "captureDate": "2018-10-11T05:19:46.257",
+    "value": 7.60,
+    "sensor": "pH Sensor"
+  },
+  {
+    "Id": 13626531,
+    "captureDate": "2018-10-11T05:09:46.347",
+    "value": 7.60,
+    "sensor": "pH Sensor"
+  },
+  {
+    "Id": 13626532,
+    "captureDate": "2018-10-11T05:09:46.347",
+    "value": 18.60,
+    "sensor": "Water Temperature Sensor"
+  },
+  {
+    "Id": 13626533,
+    "captureDate": "2018-10-11T05:09:46.347",
+    "value": 15.60,
+    "sensor": "Air Temperature Sensor"
+  },
+  {
+    "Id": 13626534,
+    "captureDate": "2018-10-11T05:09:46.347",
+    "value": 89.20,
+    "sensor": "Air Humidity Sensor"
+  },
+  {
+    "Id": 13626535,
+    "captureDate": "2018-10-11T05:09:46.347",
+    "value": 13.99,
+    "sensor": "External Air Temperature"
+  },
+  {
+    "Id": 13626536,
+    "captureDate": "2018-10-11T05:09:46.347",
+    "value": 93.00,
+    "sensor": "External Air Humidity"
+  },
+  {
+    "Id": 13626220,
+    "captureDate": "2018-10-11T04:59:46.853",
+    "value": 93.00,
+    "sensor": "External Air Humidity"
+  },
+  {
+    "Id": 13626218,
+    "captureDate": "2018-10-11T04:59:46.853",
+    "value": 13.99,
+    "sensor": "External Air Temperature"
+  },
+  {
+    "Id": 13626216,
+    "captureDate": "2018-10-11T04:59:46.853",
+    "value": 89.20,
+    "sensor": "Air Humidity Sensor"
+  },
+  {
+    "Id": 13626215,
+    "captureDate": "2018-10-11T04:59:46.853",
+    "value": 15.60,
+    "sensor": "Air Temperature Sensor"
+  },
+  {
+    "Id": 13626213,
+    "captureDate": "2018-10-11T04:59:46.853",
+    "value": 18.60,
+    "sensor": "Water Temperature Sensor"
+  },
+  {
+    "Id": 13626211,
+    "captureDate": "2018-10-11T04:59:46.853",
+    "value": 7.60,
+    "sensor": "pH Sensor"
+  },
+  {
+    "Id": 13625559,
+    "captureDate": "2018-10-11T04:39:25.94",
+    "value": 7.60,
+    "sensor": "pH Sensor"
+  },
+  {
+    "Id": 13625560,
+    "captureDate": "2018-10-11T04:39:25.94",
+    "value": 18.70,
+    "sensor": "Water Temperature Sensor"
+  },
+  {
+    "Id": 13625561,
+    "captureDate": "2018-10-11T04:39:25.94",
+    "value": 15.80,
+    "sensor": "Air Temperature Sensor"
+  },
+  {
+    "Id": 13625562,
+    "captureDate": "2018-10-11T04:39:25.94",
+    "value": 87.70,
+    "sensor": "Air Humidity Sensor"
+  },
+  {
+    "Id": 13625563,
+    "captureDate": "2018-10-11T04:39:25.94",
+    "value": 13.99,
+    "sensor": "External Air Temperature"
+  },
+  {
+    "Id": 13625564,
+    "captureDate": "2018-10-11T04:39:25.94",
+    "value": 93.00,
+    "sensor": "External Air Humidity"
+  },
+  {
+    "Id": 13625242,
+    "captureDate": "2018-10-11T04:29:26.1",
+    "value": 93.00,
+    "sensor": "External Air Humidity"
+  },
+  {
+    "Id": 13625241,
+    "captureDate": "2018-10-11T04:29:26.1",
+    "value": 13.99,
+    "sensor": "External Air Temperature"
+  },
+  {
+    "Id": 13625240,
+    "captureDate": "2018-10-11T04:29:26.1",
+    "value": 88.60,
+    "sensor": "Air Humidity Sensor"
+  },
+  {
+    "Id": 13625239,
+    "captureDate": "2018-10-11T04:29:26.1",
+    "value": 15.80,
+    "sensor": "Air Temperature Sensor"
+  },
+  {
+    "Id": 13625238,
+    "captureDate": "2018-10-11T04:29:26.1",
+    "value": 18.70,
+    "sensor": "Water Temperature Sensor"
+  },
+  {
+    "Id": 13625237,
+    "captureDate": "2018-10-11T04:29:26.1",
+    "value": 7.60,
+    "sensor": "pH Sensor"
+  },
+  {
+    "Id": 13624915,
+    "captureDate": "2018-10-11T04:19:25.953",
+    "value": 7.60,
+    "sensor": "pH Sensor"
+  },
+  {
+    "Id": 13624916,
+    "captureDate": "2018-10-11T04:19:25.953",
+    "value": 18.80,
+    "sensor": "Water Temperature Sensor"
+  },
+  {
+    "Id": 13624917,
+    "captureDate": "2018-10-11T04:19:25.953",
+    "value": 15.80,
+    "sensor": "Air Temperature Sensor"
+  },
+  {
+    "Id": 13624918,
+    "captureDate": "2018-10-11T04:19:25.953",
+    "value": 89.30,
+    "sensor": "Air Humidity Sensor"
+  },
+  {
+    "Id": 13624919,
+    "captureDate": "2018-10-11T04:19:25.953",
+    "value": 13.99,
+    "sensor": "External Air Temperature"
+  },
+  {
+    "Id": 13624920,
+    "captureDate": "2018-10-11T04:19:25.953",
+    "value": 93.00,
+    "sensor": "External Air Humidity"
+  },
+  {
+    "Id": 13624600,
+    "captureDate": "2018-10-11T04:09:25.92",
+    "value": 93.00,
+    "sensor": "External Air Humidity"
+  },
+  {
+    "Id": 13624599,
+    "captureDate": "2018-10-11T04:09:25.92",
+    "value": 13.99,
+    "sensor": "External Air Temperature"
+  },
+  {
+    "Id": 13624598,
+    "captureDate": "2018-10-11T04:09:25.92",
+    "value": 89.40,
+    "sensor": "Air Humidity Sensor"
+  },
+  {
+    "Id": 13624597,
+    "captureDate": "2018-10-11T04:09:25.92",
+    "value": 15.90,
+    "sensor": "Air Temperature Sensor"
+  },
+  {
+    "Id": 13624596,
+    "captureDate": "2018-10-11T04:09:25.92",
+    "value": 18.80,
+    "sensor": "Water Temperature Sensor"
+  },
+  {
+    "Id": 13624595,
+    "captureDate": "2018-10-11T04:09:25.92",
+    "value": 7.60,
+    "sensor": "pH Sensor"
+  },
+  {
+    "Id": 13624273,
+    "captureDate": "2018-10-11T03:59:25.933",
+    "value": 7.60,
+    "sensor": "pH Sensor"
+  },
+  {
+    "Id": 13624274,
+    "captureDate": "2018-10-11T03:59:25.933",
+    "value": 18.90,
+    "sensor": "Water Temperature Sensor"
+  },
+  {
+    "Id": 13624275,
+    "captureDate": "2018-10-11T03:59:25.933",
+    "value": 15.80,
+    "sensor": "Air Temperature Sensor"
+  },
+  {
+    "Id": 13624276,
+    "captureDate": "2018-10-11T03:59:25.933",
+    "value": 89.20,
+    "sensor": "Air Humidity Sensor"
+  },
+  {
+    "Id": 13624277,
+    "captureDate": "2018-10-11T03:59:25.933",
+    "value": 13.99,
+    "sensor": "External Air Temperature"
+  },
+  {
+    "Id": 13624278,
+    "captureDate": "2018-10-11T03:59:25.933",
+    "value": 93.00,
+    "sensor": "External Air Humidity"
+  },
+  {
+    "Id": 13623962,
+    "captureDate": "2018-10-11T03:49:26",
+    "value": 93.00,
+    "sensor": "External Air Humidity"
+  },
+  {
+    "Id": 13623961,
+    "captureDate": "2018-10-11T03:49:26",
+    "value": 13.99,
+    "sensor": "External Air Temperature"
+  },
+  {
+    "Id": 13623960,
+    "captureDate": "2018-10-11T03:49:26",
+    "value": 89.30,
+    "sensor": "Air Humidity Sensor"
+  },
+  {
+    "Id": 13623959,
+    "captureDate": "2018-10-11T03:49:26",
+    "value": 15.80,
+    "sensor": "Air Temperature Sensor"
+  },
+  {
+    "Id": 13623958,
+    "captureDate": "2018-10-11T03:49:26",
+    "value": 18.90,
+    "sensor": "Water Temperature Sensor"
+  },
+  {
+    "Id": 13623957,
+    "captureDate": "2018-10-11T03:49:26",
+    "value": 7.60,
+    "sensor": "pH Sensor"
+  },
+  {
+    "Id": 13623641,
+    "captureDate": "2018-10-11T03:39:25.927",
+    "value": 7.60,
+    "sensor": "pH Sensor"
+  },
+  {
+    "Id": 13623642,
+    "captureDate": "2018-10-11T03:39:25.927",
+    "value": 18.90,
+    "sensor": "Water Temperature Sensor"
+  },
+  {
+    "Id": 13623643,
+    "captureDate": "2018-10-11T03:39:25.927",
+    "value": 15.80,
+    "sensor": "Air Temperature Sensor"
+  },
+  {
+    "Id": 13623644,
+    "captureDate": "2018-10-11T03:39:25.927",
+    "value": 89.60,
+    "sensor": "Air Humidity Sensor"
+  },
+  {
+    "Id": 13623645,
+    "captureDate": "2018-10-11T03:39:25.927",
+    "value": 13.99,
+    "sensor": "External Air Temperature"
+  },
+  {
+    "Id": 13623646,
+    "captureDate": "2018-10-11T03:39:25.927",
+    "value": 93.00,
+    "sensor": "External Air Humidity"
+  },
+  {
+    "Id": 13623336,
+    "captureDate": "2018-10-11T03:29:25.873",
+    "value": 93.00,
+    "sensor": "External Air Humidity"
+  },
+  {
+    "Id": 13623335,
+    "captureDate": "2018-10-11T03:29:25.873",
+    "value": 13.99,
+    "sensor": "External Air Temperature"
+  },
+  {
+    "Id": 13623334,
+    "captureDate": "2018-10-11T03:29:25.873",
+    "value": 89.50,
+    "sensor": "Air Humidity Sensor"
+  },
+  {
+    "Id": 13623333,
+    "captureDate": "2018-10-11T03:29:25.873",
+    "value": 15.60,
+    "sensor": "Air Temperature Sensor"
+  },
+  {
+    "Id": 13623332,
+    "captureDate": "2018-10-11T03:29:25.873",
+    "value": 18.90,
+    "sensor": "Water Temperature Sensor"
+  },
+  {
+    "Id": 13623331,
+    "captureDate": "2018-10-11T03:29:25.873",
+    "value": 7.60,
+    "sensor": "pH Sensor"
+  },
+  {
+    "Id": 13623015,
+    "captureDate": "2018-10-11T03:19:26.007",
+    "value": 7.60,
+    "sensor": "pH Sensor"
+  },
+  {
+    "Id": 13623016,
+    "captureDate": "2018-10-11T03:19:26.007",
+    "value": 18.90,
+    "sensor": "Water Temperature Sensor"
+  },
+  {
+    "Id": 13623017,
+    "captureDate": "2018-10-11T03:19:26.007",
+    "value": 15.60,
+    "sensor": "Air Temperature Sensor"
+  },
+  {
+    "Id": 13623018,
+    "captureDate": "2018-10-11T03:19:26.007",
+    "value": 89.30,
+    "sensor": "Air Humidity Sensor"
+  },
+  {
+    "Id": 13623019,
+    "captureDate": "2018-10-11T03:19:26.007",
+    "value": 13.99,
+    "sensor": "External Air Temperature"
+  },
+  {
+    "Id": 13623020,
+    "captureDate": "2018-10-11T03:19:26.007",
+    "value": 93.00,
+    "sensor": "External Air Humidity"
+  },
+  {
+    "Id": 13622704,
+    "captureDate": "2018-10-11T03:09:25.857",
+    "value": 93.00,
+    "sensor": "External Air Humidity"
+  },
+  {
+    "Id": 13622703,
+    "captureDate": "2018-10-11T03:09:25.857",
+    "value": 13.99,
+    "sensor": "External Air Temperature"
+  },
+  {
+    "Id": 13622702,
+    "captureDate": "2018-10-11T03:09:25.857",
+    "value": 89.00,
+    "sensor": "Air Humidity Sensor"
+  },
+  {
+    "Id": 13622701,
+    "captureDate": "2018-10-11T03:09:25.857",
+    "value": 15.60,
+    "sensor": "Air Temperature Sensor"
+  },
+  {
+    "Id": 13622700,
+    "captureDate": "2018-10-11T03:09:25.857",
+    "value": 19.00,
+    "sensor": "Water Temperature Sensor"
+  },
+  {
+    "Id": 13622699,
+    "captureDate": "2018-10-11T03:09:25.857",
+    "value": 7.60,
+    "sensor": "pH Sensor"
+  },
+  {
+    "Id": 13622379,
+    "captureDate": "2018-10-11T02:59:25.857",
+    "value": 7.60,
+    "sensor": "pH Sensor"
+  },
+  {
+    "Id": 13622380,
+    "captureDate": "2018-10-11T02:59:25.857",
+    "value": 19.00,
+    "sensor": "Water Temperature Sensor"
+  },
+  {
+    "Id": 13622381,
+    "captureDate": "2018-10-11T02:59:25.857",
+    "value": 15.60,
+    "sensor": "Air Temperature Sensor"
+  },
+  {
+    "Id": 13622382,
+    "captureDate": "2018-10-11T02:59:25.857",
+    "value": 88.70,
+    "sensor": "Air Humidity Sensor"
+  },
+  {
+    "Id": 13622383,
+    "captureDate": "2018-10-11T02:59:25.857",
+    "value": 13.99,
+    "sensor": "External Air Temperature"
+  },
+  {
+    "Id": 13622384,
+    "captureDate": "2018-10-11T02:59:25.857",
+    "value": 93.00,
+    "sensor": "External Air Humidity"
+  },
+  {
+    "Id": 13622064,
+    "captureDate": "2018-10-11T02:49:26.133",
+    "value": 93.00,
+    "sensor": "External Air Humidity"
+  },
+  {
+    "Id": 13622062,
+    "captureDate": "2018-10-11T02:49:26.133",
+    "value": 13.99,
+    "sensor": "External Air Temperature"
+  },
+  {
+    "Id": 13622060,
+    "captureDate": "2018-10-11T02:49:26.133",
+    "value": 88.80,
+    "sensor": "Air Humidity Sensor"
+  },
+  {
+    "Id": 13622059,
+    "captureDate": "2018-10-11T02:49:26.133",
+    "value": 15.60,
+    "sensor": "Air Temperature Sensor"
+  },
+  {
+    "Id": 13622058,
+    "captureDate": "2018-10-11T02:49:26.133",
+    "value": 19.00,
+    "sensor": "Water Temperature Sensor"
+  },
+  {
+    "Id": 13622057,
+    "captureDate": "2018-10-11T02:49:26.133",
+    "value": 7.60,
+    "sensor": "pH Sensor"
+  },
+  {
+    "Id": 13621741,
+    "captureDate": "2018-10-11T02:39:25.84",
+    "value": 7.60,
+    "sensor": "pH Sensor"
+  },
+  {
+    "Id": 13621742,
+    "captureDate": "2018-10-11T02:39:25.84",
+    "value": 19.10,
+    "sensor": "Water Temperature Sensor"
+  },
+  {
+    "Id": 13621743,
+    "captureDate": "2018-10-11T02:39:25.84",
+    "value": 15.70,
+    "sensor": "Air Temperature Sensor"
+  },
+  {
+    "Id": 13621744,
+    "captureDate": "2018-10-11T02:39:25.84",
+    "value": 88.10,
+    "sensor": "Air Humidity Sensor"
+  },
+  {
+    "Id": 13621745,
+    "captureDate": "2018-10-11T02:39:25.84",
+    "value": 13.99,
+    "sensor": "External Air Temperature"
+  },
+  {
+    "Id": 13621746,
+    "captureDate": "2018-10-11T02:39:25.84",
+    "value": 93.00,
+    "sensor": "External Air Humidity"
+  },
+  {
+    "Id": 13621418,
+    "captureDate": "2018-10-11T02:29:25.913",
+    "value": 93.00,
+    "sensor": "External Air Humidity"
+  },
+  {
+    "Id": 13621417,
+    "captureDate": "2018-10-11T02:29:25.913",
+    "value": 13.99,
+    "sensor": "External Air Temperature"
+  },
+  {
+    "Id": 13621416,
+    "captureDate": "2018-10-11T02:29:25.913",
+    "value": 88.10,
+    "sensor": "Air Humidity Sensor"
+  },
+  {
+    "Id": 13621415,
+    "captureDate": "2018-10-11T02:29:25.913",
+    "value": 15.60,
+    "sensor": "Air Temperature Sensor"
+  },
+  {
+    "Id": 13621414,
+    "captureDate": "2018-10-11T02:29:25.913",
+    "value": 19.10,
+    "sensor": "Water Temperature Sensor"
+  },
+  {
+    "Id": 13621413,
+    "captureDate": "2018-10-11T02:29:25.913",
+    "value": 7.70,
+    "sensor": "pH Sensor"
+  },
+  {
+    "Id": 13621085,
+    "captureDate": "2018-10-11T02:19:25.94",
+    "value": 7.70,
+    "sensor": "pH Sensor"
+  },
+  {
+    "Id": 13621086,
+    "captureDate": "2018-10-11T02:19:25.94",
+    "value": 19.20,
+    "sensor": "Water Temperature Sensor"
+  },
+  {
+    "Id": 13621087,
+    "captureDate": "2018-10-11T02:19:25.94",
+    "value": 15.60,
+    "sensor": "Air Temperature Sensor"
+  },
+  {
+    "Id": 13621088,
+    "captureDate": "2018-10-11T02:19:25.94",
+    "value": 88.30,
+    "sensor": "Air Humidity Sensor"
+  },
+  {
+    "Id": 13621089,
+    "captureDate": "2018-10-11T02:19:25.94",
+    "value": 13.99,
+    "sensor": "External Air Temperature"
+  },
+  {
+    "Id": 13621090,
+    "captureDate": "2018-10-11T02:19:25.94",
+    "value": 93.00,
+    "sensor": "External Air Humidity"
+  },
+  {
+    "Id": 13620775,
+    "captureDate": "2018-10-11T02:09:25.967",
+    "value": 93.00,
+    "sensor": "External Air Humidity"
+  },
+  {
+    "Id": 13620773,
+    "captureDate": "2018-10-11T02:09:25.967",
+    "value": 13.99,
+    "sensor": "External Air Temperature"
+  },
+  {
+    "Id": 13620772,
+    "captureDate": "2018-10-11T02:09:25.967",
+    "value": 88.00,
+    "sensor": "Air Humidity Sensor"
+  },
+  {
+    "Id": 13620771,
+    "captureDate": "2018-10-11T02:09:25.967",
+    "value": 15.60,
+    "sensor": "Air Temperature Sensor"
+  },
+  {
+    "Id": 13620770,
+    "captureDate": "2018-10-11T02:09:25.967",
+    "value": 19.20,
+    "sensor": "Water Temperature Sensor"
+  },
+  {
+    "Id": 13620769,
+    "captureDate": "2018-10-11T02:09:25.967",
+    "value": 7.60,
+    "sensor": "pH Sensor"
+  },
+  {
+    "Id": 13620447,
+    "captureDate": "2018-10-11T01:59:25.923",
+    "value": 7.60,
+    "sensor": "pH Sensor"
+  },
+  {
+    "Id": 13620448,
+    "captureDate": "2018-10-11T01:59:25.923",
+    "value": 19.20,
+    "sensor": "Water Temperature Sensor"
+  },
+  {
+    "Id": 13620449,
+    "captureDate": "2018-10-11T01:59:25.923",
+    "value": 15.60,
+    "sensor": "Air Temperature Sensor"
+  },
+  {
+    "Id": 13620450,
+    "captureDate": "2018-10-11T01:59:25.923",
+    "value": 87.50,
+    "sensor": "Air Humidity Sensor"
+  },
+  {
+    "Id": 13620451,
+    "captureDate": "2018-10-11T01:59:25.923",
+    "value": 13.99,
+    "sensor": "External Air Temperature"
+  },
+  {
+    "Id": 13620452,
+    "captureDate": "2018-10-11T01:59:25.923",
+    "value": 93.00,
+    "sensor": "External Air Humidity"
+  },
+  {
+    "Id": 13620124,
+    "captureDate": "2018-10-11T01:49:25.813",
+    "value": 93.00,
+    "sensor": "External Air Humidity"
+  },
+  {
+    "Id": 13620123,
+    "captureDate": "2018-10-11T01:49:25.813",
+    "value": 13.99,
+    "sensor": "External Air Temperature"
+  },
+  {
+    "Id": 13620122,
+    "captureDate": "2018-10-11T01:49:25.813",
+    "value": 87.20,
+    "sensor": "Air Humidity Sensor"
+  },
+  {
+    "Id": 13620121,
+    "captureDate": "2018-10-11T01:49:25.813",
+    "value": 15.70,
+    "sensor": "Air Temperature Sensor"
+  },
+  {
+    "Id": 13620120,
+    "captureDate": "2018-10-11T01:49:25.813",
+    "value": 19.20,
+    "sensor": "Water Temperature Sensor"
+  },
+  {
+    "Id": 13620119,
+    "captureDate": "2018-10-11T01:49:25.813",
+    "value": 7.70,
+    "sensor": "pH Sensor"
+  },
+  {
+    "Id": 13619797,
+    "captureDate": "2018-10-11T01:39:25.947",
+    "value": 7.70,
+    "sensor": "pH Sensor"
+  },
+  {
+    "Id": 13619798,
+    "captureDate": "2018-10-11T01:39:25.947",
+    "value": 19.40,
+    "sensor": "Water Temperature Sensor"
+  },
+  {
+    "Id": 13619799,
+    "captureDate": "2018-10-11T01:39:25.947",
+    "value": 15.70,
+    "sensor": "Air Temperature Sensor"
+  },
+  {
+    "Id": 13619800,
+    "captureDate": "2018-10-11T01:39:25.947",
+    "value": 86.60,
+    "sensor": "Air Humidity Sensor"
+  },
+  {
+    "Id": 13619801,
+    "captureDate": "2018-10-11T01:39:25.947",
+    "value": 13.99,
+    "sensor": "External Air Temperature"
+  },
+  {
+    "Id": 13619802,
+    "captureDate": "2018-10-11T01:39:25.947",
+    "value": 93.00,
+    "sensor": "External Air Humidity"
+  },
+  {
+    "Id": 13619496,
+    "captureDate": "2018-10-11T01:29:26.117",
+    "value": 93.00,
+    "sensor": "External Air Humidity"
+  },
+  {
+    "Id": 13619495,
+    "captureDate": "2018-10-11T01:29:26.117",
+    "value": 13.99,
+    "sensor": "External Air Temperature"
+  },
+  {
+    "Id": 13619491,
+    "captureDate": "2018-10-11T01:29:26.117",
+    "value": 86.60,
+    "sensor": "Air Humidity Sensor"
+  },
+  {
+    "Id": 13619489,
+    "captureDate": "2018-10-11T01:29:26.117",
+    "value": 15.70,
+    "sensor": "Air Temperature Sensor"
+  },
+  {
+    "Id": 13619488,
+    "captureDate": "2018-10-11T01:29:26.117",
+    "value": 19.40,
+    "sensor": "Water Temperature Sensor"
+  },
+  {
+    "Id": 13619487,
+    "captureDate": "2018-10-11T01:29:26.117",
+    "value": 7.60,
+    "sensor": "pH Sensor"
+  },
+  {
+    "Id": 13619159,
+    "captureDate": "2018-10-11T01:19:26.233",
+    "value": 7.60,
+    "sensor": "pH Sensor"
+  },
+  {
+    "Id": 13619160,
+    "captureDate": "2018-10-11T01:19:26.233",
+    "value": 19.40,
+    "sensor": "Water Temperature Sensor"
+  },
+  {
+    "Id": 13619161,
+    "captureDate": "2018-10-11T01:19:26.233",
+    "value": 15.80,
+    "sensor": "Air Temperature Sensor"
+  },
+  {
+    "Id": 13619162,
+    "captureDate": "2018-10-11T01:19:26.233",
+    "value": 86.70,
+    "sensor": "Air Humidity Sensor"
+  },
+  {
+    "Id": 13619163,
+    "captureDate": "2018-10-11T01:19:26.233",
+    "value": 13.99,
+    "sensor": "External Air Temperature"
+  },
+  {
+    "Id": 13619164,
+    "captureDate": "2018-10-11T01:19:26.233",
+    "value": 93.00,
+    "sensor": "External Air Humidity"
+  },
+  {
+    "Id": 13618842,
+    "captureDate": "2018-10-11T01:09:25.957",
+    "value": 93.00,
+    "sensor": "External Air Humidity"
+  },
+  {
+    "Id": 13618841,
+    "captureDate": "2018-10-11T01:09:25.957",
+    "value": 13.99,
+    "sensor": "External Air Temperature"
+  },
+  {
+    "Id": 13618840,
+    "captureDate": "2018-10-11T01:09:25.957",
+    "value": 86.10,
+    "sensor": "Air Humidity Sensor"
+  },
+  {
+    "Id": 13618839,
+    "captureDate": "2018-10-11T01:09:25.957",
+    "value": 15.80,
+    "sensor": "Air Temperature Sensor"
+  },
+  {
+    "Id": 13618838,
+    "captureDate": "2018-10-11T01:09:25.957",
+    "value": 19.40,
+    "sensor": "Water Temperature Sensor"
+  },
+  {
+    "Id": 13618837,
+    "captureDate": "2018-10-11T01:09:25.957",
+    "value": 7.70,
+    "sensor": "pH Sensor"
+  },
+  {
+    "Id": 13618509,
+    "captureDate": "2018-10-11T00:59:25.993",
+    "value": 7.60,
+    "sensor": "pH Sensor"
+  },
+  {
+    "Id": 13618510,
+    "captureDate": "2018-10-11T00:59:25.993",
+    "value": 19.50,
+    "sensor": "Water Temperature Sensor"
+  },
+  {
+    "Id": 13618511,
+    "captureDate": "2018-10-11T00:59:25.993",
+    "value": 15.80,
+    "sensor": "Air Temperature Sensor"
+  },
+  {
+    "Id": 13618512,
+    "captureDate": "2018-10-11T00:59:25.993",
+    "value": 85.70,
+    "sensor": "Air Humidity Sensor"
+  },
+  {
+    "Id": 13618515,
+    "captureDate": "2018-10-11T00:59:25.993",
+    "value": 13.99,
+    "sensor": "External Air Temperature"
+  },
+  {
+    "Id": 13618518,
+    "captureDate": "2018-10-11T00:59:25.993",
+    "value": 93.00,
+    "sensor": "External Air Humidity"
+  },
+  {
+    "Id": 13618198,
+    "captureDate": "2018-10-11T00:49:25.907",
+    "value": 93.00,
+    "sensor": "External Air Humidity"
+  },
+  {
+    "Id": 13618197,
+    "captureDate": "2018-10-11T00:49:25.907",
+    "value": 13.99,
+    "sensor": "External Air Temperature"
+  },
+  {
+    "Id": 13618196,
+    "captureDate": "2018-10-11T00:49:25.907",
+    "value": 85.80,
+    "sensor": "Air Humidity Sensor"
+  },
+  {
+    "Id": 13618195,
+    "captureDate": "2018-10-11T00:49:25.907",
+    "value": 15.80,
+    "sensor": "Air Temperature Sensor"
+  },
+  {
+    "Id": 13618194,
+    "captureDate": "2018-10-11T00:49:25.907",
+    "value": 19.50,
+    "sensor": "Water Temperature Sensor"
+  },
+  {
+    "Id": 13618193,
+    "captureDate": "2018-10-11T00:49:25.907",
+    "value": 7.60,
+    "sensor": "pH Sensor"
+  },
+  {
+    "Id": 13617877,
+    "captureDate": "2018-10-11T00:39:26.423",
+    "value": 7.60,
+    "sensor": "pH Sensor"
+  },
+  {
+    "Id": 13617878,
+    "captureDate": "2018-10-11T00:39:26.423",
+    "value": 19.60,
+    "sensor": "Water Temperature Sensor"
+  },
+  {
+    "Id": 13617879,
+    "captureDate": "2018-10-11T00:39:26.423",
+    "value": 15.90,
+    "sensor": "Air Temperature Sensor"
+  },
+  {
+    "Id": 13617881,
+    "captureDate": "2018-10-11T00:39:26.423",
+    "value": 85.50,
+    "sensor": "Air Humidity Sensor"
+  },
+  {
+    "Id": 13617884,
+    "captureDate": "2018-10-11T00:39:26.423",
+    "value": 13.99,
+    "sensor": "External Air Temperature"
+  },
+  {
+    "Id": 13617886,
+    "captureDate": "2018-10-11T00:39:26.423",
+    "value": 93.00,
+    "sensor": "External Air Humidity"
+  },
+  {
+    "Id": 13617561,
+    "captureDate": "2018-10-11T00:29:25.997",
+    "value": 93.00,
+    "sensor": "External Air Humidity"
+  },
+  {
+    "Id": 13617559,
+    "captureDate": "2018-10-11T00:29:25.997",
+    "value": 13.99,
+    "sensor": "External Air Temperature"
+  },
+  {
+    "Id": 13617558,
+    "captureDate": "2018-10-11T00:29:25.997",
+    "value": 85.10,
+    "sensor": "Air Humidity Sensor"
+  },
+  {
+    "Id": 13617557,
+    "captureDate": "2018-10-11T00:29:25.997",
+    "value": 15.90,
+    "sensor": "Air Temperature Sensor"
+  },
+  {
+    "Id": 13617556,
+    "captureDate": "2018-10-11T00:29:25.997",
+    "value": 19.60,
+    "sensor": "Water Temperature Sensor"
+  },
+  {
+    "Id": 13617555,
+    "captureDate": "2018-10-11T00:29:25.997",
+    "value": 7.60,
+    "sensor": "pH Sensor"
+  },
+  {
+    "Id": 13617227,
+    "captureDate": "2018-10-11T00:19:25.913",
+    "value": 7.70,
+    "sensor": "pH Sensor"
+  },
+  {
+    "Id": 13617228,
+    "captureDate": "2018-10-11T00:19:25.913",
+    "value": 19.60,
+    "sensor": "Water Temperature Sensor"
+  },
+  {
+    "Id": 13617229,
+    "captureDate": "2018-10-11T00:19:25.913",
+    "value": 16.00,
+    "sensor": "Air Temperature Sensor"
+  },
+  {
+    "Id": 13617230,
+    "captureDate": "2018-10-11T00:19:25.913",
+    "value": 84.60,
+    "sensor": "Air Humidity Sensor"
+  },
+  {
+    "Id": 13617231,
+    "captureDate": "2018-10-11T00:19:25.913",
+    "value": 13.99,
+    "sensor": "External Air Temperature"
+  },
+  {
+    "Id": 13617232,
+    "captureDate": "2018-10-11T00:19:25.913",
+    "value": 93.00,
+    "sensor": "External Air Humidity"
+  },
+  {
+    "Id": 13616906,
+    "captureDate": "2018-10-11T00:09:26.023",
+    "value": 93.00,
+    "sensor": "External Air Humidity"
+  },
+  {
+    "Id": 13616905,
+    "captureDate": "2018-10-11T00:09:26.023",
+    "value": 13.99,
+    "sensor": "External Air Temperature"
+  },
+  {
+    "Id": 13616904,
+    "captureDate": "2018-10-11T00:09:26.023",
+    "value": 83.90,
+    "sensor": "Air Humidity Sensor"
+  },
+  {
+    "Id": 13616903,
+    "captureDate": "2018-10-11T00:09:26.023",
+    "value": 16.00,
+    "sensor": "Air Temperature Sensor"
+  },
+  {
+    "Id": 13616902,
+    "captureDate": "2018-10-11T00:09:26.023",
+    "value": 19.70,
+    "sensor": "Water Temperature Sensor"
+  },
+  {
+    "Id": 13616901,
+    "captureDate": "2018-10-11T00:09:26.023",
+    "value": 7.60,
+    "sensor": "pH Sensor"
+  },
+  {
+    "Id": 13616585,
+    "captureDate": "2018-10-10T23:59:25.893",
+    "value": 7.60,
+    "sensor": "pH Sensor"
+  },
+  {
+    "Id": 13616586,
+    "captureDate": "2018-10-10T23:59:25.893",
+    "value": 19.70,
+    "sensor": "Water Temperature Sensor"
+  },
+  {
+    "Id": 13616587,
+    "captureDate": "2018-10-10T23:59:25.893",
+    "value": 16.10,
+    "sensor": "Air Temperature Sensor"
+  },
+  {
+    "Id": 13616588,
+    "captureDate": "2018-10-10T23:59:25.893",
+    "value": 83.80,
+    "sensor": "Air Humidity Sensor"
+  },
+  {
+    "Id": 13616589,
+    "captureDate": "2018-10-10T23:59:25.893",
+    "value": 13.99,
+    "sensor": "External Air Temperature"
+  },
+  {
+    "Id": 13616590,
+    "captureDate": "2018-10-10T23:59:25.893",
+    "value": 93.00,
+    "sensor": "External Air Humidity"
+  },
+  {
+    "Id": 13616268,
+    "captureDate": "2018-10-10T23:49:26",
+    "value": 93.00,
+    "sensor": "External Air Humidity"
+  },
+  {
+    "Id": 13616267,
+    "captureDate": "2018-10-10T23:49:26",
+    "value": 13.99,
+    "sensor": "External Air Temperature"
+  },
+  {
+    "Id": 13616266,
+    "captureDate": "2018-10-10T23:49:26",
+    "value": 82.80,
+    "sensor": "Air Humidity Sensor"
+  },
+  {
+    "Id": 13616265,
+    "captureDate": "2018-10-10T23:49:26",
+    "value": 16.10,
+    "sensor": "Air Temperature Sensor"
+  },
+  {
+    "Id": 13616264,
+    "captureDate": "2018-10-10T23:49:26",
+    "value": 19.80,
+    "sensor": "Water Temperature Sensor"
+  },
+  {
+    "Id": 13616263,
+    "captureDate": "2018-10-10T23:49:26",
+    "value": 7.60,
+    "sensor": "pH Sensor"
+  },
+  {
+    "Id": 13615941,
+    "captureDate": "2018-10-10T23:39:25.907",
+    "value": 7.60,
+    "sensor": "pH Sensor"
+  },
+  {
+    "Id": 13615942,
+    "captureDate": "2018-10-10T23:39:25.907",
+    "value": 19.80,
+    "sensor": "Water Temperature Sensor"
+  },
+  {
+    "Id": 13615943,
+    "captureDate": "2018-10-10T23:39:25.907",
+    "value": 16.20,
+    "sensor": "Air Temperature Sensor"
+  },
+  {
+    "Id": 13615944,
+    "captureDate": "2018-10-10T23:39:25.907",
+    "value": 83.20,
+    "sensor": "Air Humidity Sensor"
+  },
+  {
+    "Id": 13615945,
+    "captureDate": "2018-10-10T23:39:25.907",
+    "value": 13.99,
+    "sensor": "External Air Temperature"
+  },
+  {
+    "Id": 13615946,
+    "captureDate": "2018-10-10T23:39:25.907",
+    "value": 93.00,
+    "sensor": "External Air Humidity"
+  },
+  {
+    "Id": 13615625,
+    "captureDate": "2018-10-10T23:29:26.07",
+    "value": 93.00,
+    "sensor": "External Air Humidity"
+  },
+  {
+    "Id": 13615623,
+    "captureDate": "2018-10-10T23:29:26.07",
+    "value": 13.99,
+    "sensor": "External Air Temperature"
+  },
+  {
+    "Id": 13615622,
+    "captureDate": "2018-10-10T23:29:26.07",
+    "value": 81.90,
+    "sensor": "Air Humidity Sensor"
+  },
+  {
+    "Id": 13615621,
+    "captureDate": "2018-10-10T23:29:26.07",
+    "value": 16.20,
+    "sensor": "Air Temperature Sensor"
+  },
+  {
+    "Id": 13615620,
+    "captureDate": "2018-10-10T23:29:26.07",
+    "value": 19.90,
+    "sensor": "Water Temperature Sensor"
+  },
+  {
+    "Id": 13615619,
+    "captureDate": "2018-10-10T23:29:26.07",
+    "value": 7.60,
+    "sensor": "pH Sensor"
+  },
+  {
+    "Id": 13615291,
+    "captureDate": "2018-10-10T23:19:25.98",
+    "value": 7.60,
+    "sensor": "pH Sensor"
+  },
+  {
+    "Id": 13615292,
+    "captureDate": "2018-10-10T23:19:25.98",
+    "value": 19.90,
+    "sensor": "Water Temperature Sensor"
+  },
+  {
+    "Id": 13615293,
+    "captureDate": "2018-10-10T23:19:25.98",
+    "value": 16.30,
+    "sensor": "Air Temperature Sensor"
+  },
+  {
+    "Id": 13615294,
+    "captureDate": "2018-10-10T23:19:25.98",
+    "value": 81.30,
+    "sensor": "Air Humidity Sensor"
+  },
+  {
+    "Id": 13615295,
+    "captureDate": "2018-10-10T23:19:25.98",
+    "value": 13.99,
+    "sensor": "External Air Temperature"
+  },
+  {
+    "Id": 13615296,
+    "captureDate": "2018-10-10T23:19:25.98",
+    "value": 93.00,
+    "sensor": "External Air Humidity"
+  },
+  {
+    "Id": 13614974,
+    "captureDate": "2018-10-10T23:09:26.02",
+    "value": 93.00,
+    "sensor": "External Air Humidity"
+  },
+  {
+    "Id": 13614973,
+    "captureDate": "2018-10-10T23:09:26.02",
+    "value": 13.99,
+    "sensor": "External Air Temperature"
+  },
+  {
+    "Id": 13614972,
+    "captureDate": "2018-10-10T23:09:26.02",
+    "value": 81.70,
+    "sensor": "Air Humidity Sensor"
+  },
+  {
+    "Id": 13614971,
+    "captureDate": "2018-10-10T23:09:26.02",
+    "value": 16.40,
+    "sensor": "Air Temperature Sensor"
+  },
+  {
+    "Id": 13614970,
+    "captureDate": "2018-10-10T23:09:26.02",
+    "value": 20.00,
+    "sensor": "Water Temperature Sensor"
+  },
+  {
+    "Id": 13614969,
+    "captureDate": "2018-10-10T23:09:26.02",
+    "value": 7.60,
+    "sensor": "pH Sensor"
+  },
+  {
+    "Id": 13614641,
+    "captureDate": "2018-10-10T22:59:25.93",
+    "value": 7.60,
+    "sensor": "pH Sensor"
+  },
+  {
+    "Id": 13614642,
+    "captureDate": "2018-10-10T22:59:25.93",
+    "value": 20.10,
+    "sensor": "Water Temperature Sensor"
+  },
+  {
+    "Id": 13614643,
+    "captureDate": "2018-10-10T22:59:25.93",
+    "value": 16.40,
+    "sensor": "Air Temperature Sensor"
+  },
+  {
+    "Id": 13614644,
+    "captureDate": "2018-10-10T22:59:25.93",
+    "value": 81.10,
+    "sensor": "Air Humidity Sensor"
+  },
+  {
+    "Id": 13614645,
+    "captureDate": "2018-10-10T22:59:25.93",
+    "value": 13.99,
+    "sensor": "External Air Temperature"
+  },
+  {
+    "Id": 13614646,
+    "captureDate": "2018-10-10T22:59:25.93",
+    "value": 93.00,
+    "sensor": "External Air Humidity"
+  },
+  {
+    "Id": 13614324,
+    "captureDate": "2018-10-10T22:49:25.877",
+    "value": 93.00,
+    "sensor": "External Air Humidity"
+  },
+  {
+    "Id": 13614323,
+    "captureDate": "2018-10-10T22:49:25.877",
+    "value": 13.99,
+    "sensor": "External Air Temperature"
+  },
+  {
+    "Id": 13614322,
+    "captureDate": "2018-10-10T22:49:25.877",
+    "value": 80.20,
+    "sensor": "Air Humidity Sensor"
+  },
+  {
+    "Id": 13614321,
+    "captureDate": "2018-10-10T22:49:25.877",
+    "value": 16.50,
+    "sensor": "Air Temperature Sensor"
+  },
+  {
+    "Id": 13614320,
+    "captureDate": "2018-10-10T22:49:25.877",
+    "value": 20.10,
+    "sensor": "Water Temperature Sensor"
+  },
+  {
+    "Id": 13614319,
+    "captureDate": "2018-10-10T22:49:25.877",
+    "value": 7.60,
+    "sensor": "pH Sensor"
+  },
+  {
+    "Id": 13613991,
+    "captureDate": "2018-10-10T22:39:25.92",
+    "value": 7.60,
+    "sensor": "pH Sensor"
+  },
+  {
+    "Id": 13613992,
+    "captureDate": "2018-10-10T22:39:25.92",
+    "value": 20.10,
+    "sensor": "Water Temperature Sensor"
+  },
+  {
+    "Id": 13613993,
+    "captureDate": "2018-10-10T22:39:25.92",
+    "value": 16.60,
+    "sensor": "Air Temperature Sensor"
+  },
+  {
+    "Id": 13613994,
+    "captureDate": "2018-10-10T22:39:25.92",
+    "value": 79.70,
+    "sensor": "Air Humidity Sensor"
+  },
+  {
+    "Id": 13613995,
+    "captureDate": "2018-10-10T22:39:25.92",
+    "value": 13.99,
+    "sensor": "External Air Temperature"
+  },
+  {
+    "Id": 13613996,
+    "captureDate": "2018-10-10T22:39:25.92",
+    "value": 93.00,
+    "sensor": "External Air Humidity"
+  },
+  {
+    "Id": 13613674,
+    "captureDate": "2018-10-10T22:29:26.07",
+    "value": 93.00,
+    "sensor": "External Air Humidity"
+  },
+  {
+    "Id": 13613673,
+    "captureDate": "2018-10-10T22:29:26.07",
+    "value": 13.99,
+    "sensor": "External Air Temperature"
+  },
+  {
+    "Id": 13613672,
+    "captureDate": "2018-10-10T22:29:26.07",
+    "value": 79.50,
+    "sensor": "Air Humidity Sensor"
+  },
+  {
+    "Id": 13613671,
+    "captureDate": "2018-10-10T22:29:26.07",
+    "value": 16.60,
+    "sensor": "Air Temperature Sensor"
+  },
+  {
+    "Id": 13613670,
+    "captureDate": "2018-10-10T22:29:26.07",
+    "value": 20.20,
+    "sensor": "Water Temperature Sensor"
+  },
+  {
+    "Id": 13613669,
+    "captureDate": "2018-10-10T22:29:26.07",
+    "value": 7.60,
+    "sensor": "pH Sensor"
+  },
+  {
+    "Id": 13613335,
+    "captureDate": "2018-10-10T22:19:25.933",
+    "value": 7.60,
+    "sensor": "pH Sensor"
+  },
+  {
+    "Id": 13613336,
+    "captureDate": "2018-10-10T22:19:25.933",
+    "value": 20.20,
+    "sensor": "Water Temperature Sensor"
+  },
+  {
+    "Id": 13613337,
+    "captureDate": "2018-10-10T22:19:25.933",
+    "value": 16.60,
+    "sensor": "Air Temperature Sensor"
+  },
+  {
+    "Id": 13613338,
+    "captureDate": "2018-10-10T22:19:25.933",
+    "value": 79.40,
+    "sensor": "Air Humidity Sensor"
+  },
+  {
+    "Id": 13613339,
+    "captureDate": "2018-10-10T22:19:25.933",
+    "value": 13.99,
+    "sensor": "External Air Temperature"
+  },
+  {
+    "Id": 13613340,
+    "captureDate": "2018-10-10T22:19:25.933",
+    "value": 93.00,
+    "sensor": "External Air Humidity"
+  },
+  {
+    "Id": 13613024,
+    "captureDate": "2018-10-10T22:09:26.473",
+    "value": 93.00,
+    "sensor": "External Air Humidity"
+  },
+  {
+    "Id": 13613023,
+    "captureDate": "2018-10-10T22:09:26.473",
+    "value": 13.99,
+    "sensor": "External Air Temperature"
+  },
+  {
+    "Id": 13613022,
+    "captureDate": "2018-10-10T22:09:26.473",
+    "value": 79.30,
+    "sensor": "Air Humidity Sensor"
+  },
+  {
+    "Id": 13613020,
+    "captureDate": "2018-10-10T22:09:26.473",
+    "value": 16.70,
+    "sensor": "Air Temperature Sensor"
+  },
+  {
+    "Id": 13613018,
+    "captureDate": "2018-10-10T22:09:26.473",
+    "value": 20.30,
+    "sensor": "Water Temperature Sensor"
+  },
+  {
+    "Id": 13613017,
+    "captureDate": "2018-10-10T22:09:26.473",
+    "value": 7.60,
+    "sensor": "pH Sensor"
+  },
+  {
+    "Id": 13612691,
+    "captureDate": "2018-10-10T21:59:25.933",
+    "value": 7.60,
+    "sensor": "pH Sensor"
+  },
+  {
+    "Id": 13612692,
+    "captureDate": "2018-10-10T21:59:25.933",
+    "value": 20.40,
+    "sensor": "Water Temperature Sensor"
+  },
+  {
+    "Id": 13612693,
+    "captureDate": "2018-10-10T21:59:25.933",
+    "value": 16.80,
+    "sensor": "Air Temperature Sensor"
+  },
+  {
+    "Id": 13612694,
+    "captureDate": "2018-10-10T21:59:25.933",
+    "value": 78.30,
+    "sensor": "Air Humidity Sensor"
+  },
+  {
+    "Id": 13612695,
+    "captureDate": "2018-10-10T21:59:25.933",
+    "value": 13.99,
+    "sensor": "External Air Temperature"
+  },
+  {
+    "Id": 13612696,
+    "captureDate": "2018-10-10T21:59:25.933",
+    "value": 93.00,
+    "sensor": "External Air Humidity"
+  },
+  {
+    "Id": 13612372,
+    "captureDate": "2018-10-10T21:49:26.103",
+    "value": 93.00,
+    "sensor": "External Air Humidity"
+  },
+  {
+    "Id": 13612371,
+    "captureDate": "2018-10-10T21:49:26.103",
+    "value": 13.99,
+    "sensor": "External Air Temperature"
+  },
+  {
+    "Id": 13612367,
+    "captureDate": "2018-10-10T21:49:26.103",
+    "value": 78.30,
+    "sensor": "Air Humidity Sensor"
+  },
+  {
+    "Id": 13612365,
+    "captureDate": "2018-10-10T21:49:26.103",
+    "value": 16.80,
+    "sensor": "Air Temperature Sensor"
+  },
+  {
+    "Id": 13612364,
+    "captureDate": "2018-10-10T21:49:26.103",
+    "value": 20.40,
+    "sensor": "Water Temperature Sensor"
+  },
+  {
+    "Id": 13612363,
+    "captureDate": "2018-10-10T21:49:26.103",
+    "value": 7.60,
+    "sensor": "pH Sensor"
+  },
+  {
+    "Id": 13612035,
+    "captureDate": "2018-10-10T21:39:26.037",
+    "value": 7.60,
+    "sensor": "pH Sensor"
+  },
+  {
+    "Id": 13612036,
+    "captureDate": "2018-10-10T21:39:26.037",
+    "value": 20.40,
+    "sensor": "Water Temperature Sensor"
+  },
+  {
+    "Id": 13612037,
+    "captureDate": "2018-10-10T21:39:26.037",
+    "value": 16.90,
+    "sensor": "Air Temperature Sensor"
+  },
+  {
+    "Id": 13612038,
+    "captureDate": "2018-10-10T21:39:26.037",
+    "value": 77.80,
+    "sensor": "Air Humidity Sensor"
+  },
+  {
+    "Id": 13612039,
+    "captureDate": "2018-10-10T21:39:26.037",
+    "value": 13.99,
+    "sensor": "External Air Temperature"
+  },
+  {
+    "Id": 13612040,
+    "captureDate": "2018-10-10T21:39:26.037",
+    "value": 93.00,
+    "sensor": "External Air Humidity"
+  },
+  {
+    "Id": 13611718,
+    "captureDate": "2018-10-10T21:29:26.103",
+    "value": 93.00,
+    "sensor": "External Air Humidity"
+  },
+  {
+    "Id": 13611717,
+    "captureDate": "2018-10-10T21:29:26.103",
+    "value": 14.51,
+    "sensor": "External Air Temperature"
+  },
+  {
+    "Id": 13611716,
+    "captureDate": "2018-10-10T21:29:26.103",
+    "value": 77.50,
+    "sensor": "Air Humidity Sensor"
+  },
+  {
+    "Id": 13611715,
+    "captureDate": "2018-10-10T21:29:26.103",
+    "value": 17.00,
+    "sensor": "Air Temperature Sensor"
+  },
+  {
+    "Id": 13611714,
+    "captureDate": "2018-10-10T21:29:26.103",
+    "value": 20.50,
+    "sensor": "Water Temperature Sensor"
+  },
+  {
+    "Id": 13611713,
+    "captureDate": "2018-10-10T21:29:26.103",
+    "value": 7.60,
+    "sensor": "pH Sensor"
+  },
+  {
+    "Id": 13611385,
+    "captureDate": "2018-10-10T21:19:25.927",
+    "value": 7.60,
+    "sensor": "pH Sensor"
+  },
+  {
+    "Id": 13611386,
+    "captureDate": "2018-10-10T21:19:25.927",
+    "value": 20.60,
+    "sensor": "Water Temperature Sensor"
+  },
+  {
+    "Id": 13611387,
+    "captureDate": "2018-10-10T21:19:25.927",
+    "value": 16.90,
+    "sensor": "Air Temperature Sensor"
+  },
+  {
+    "Id": 13611388,
+    "captureDate": "2018-10-10T21:19:25.927",
+    "value": 77.60,
+    "sensor": "Air Humidity Sensor"
+  },
+  {
+    "Id": 13611389,
+    "captureDate": "2018-10-10T21:19:25.927",
+    "value": 14.51,
+    "sensor": "External Air Temperature"
+  },
+  {
+    "Id": 13611390,
+    "captureDate": "2018-10-10T21:19:25.927",
+    "value": 93.00,
+    "sensor": "External Air Humidity"
+  },
+  {
+    "Id": 13611083,
+    "captureDate": "2018-10-10T21:09:25.953",
+    "value": 93.00,
+    "sensor": "External Air Humidity"
+  },
+  {
+    "Id": 13611081,
+    "captureDate": "2018-10-10T21:09:25.953",
+    "value": 14.51,
+    "sensor": "External Air Temperature"
+  },
+  {
+    "Id": 13611080,
+    "captureDate": "2018-10-10T21:09:25.953",
+    "value": 79.10,
+    "sensor": "Air Humidity Sensor"
+  },
+  {
+    "Id": 13611079,
+    "captureDate": "2018-10-10T21:09:25.953",
+    "value": 17.00,
+    "sensor": "Air Temperature Sensor"
+  },
+  {
+    "Id": 13611078,
+    "captureDate": "2018-10-10T21:09:25.953",
+    "value": 20.60,
+    "sensor": "Water Temperature Sensor"
+  },
+  {
+    "Id": 13611077,
+    "captureDate": "2018-10-10T21:09:25.953",
+    "value": 7.60,
+    "sensor": "pH Sensor"
+  },
+  {
+    "Id": 13610755,
+    "captureDate": "2018-10-10T20:59:25.897",
+    "value": 7.60,
+    "sensor": "pH Sensor"
+  },
+  {
+    "Id": 13610756,
+    "captureDate": "2018-10-10T20:59:25.897",
+    "value": 20.60,
+    "sensor": "Water Temperature Sensor"
+  },
+  {
+    "Id": 13610757,
+    "captureDate": "2018-10-10T20:59:25.897",
+    "value": 17.00,
+    "sensor": "Air Temperature Sensor"
+  },
+  {
+    "Id": 13610758,
+    "captureDate": "2018-10-10T20:59:25.897",
+    "value": 77.10,
+    "sensor": "Air Humidity Sensor"
+  },
+  {
+    "Id": 13610759,
+    "captureDate": "2018-10-10T20:59:25.897",
+    "value": 14.51,
+    "sensor": "External Air Temperature"
+  },
+  {
+    "Id": 13610760,
+    "captureDate": "2018-10-10T20:59:25.897",
+    "value": 93.00,
+    "sensor": "External Air Humidity"
+  },
+  {
+    "Id": 13610438,
+    "captureDate": "2018-10-10T20:49:26.21",
+    "value": 93.00,
+    "sensor": "External Air Humidity"
+  },
+  {
+    "Id": 13610437,
+    "captureDate": "2018-10-10T20:49:26.21",
+    "value": 14.51,
+    "sensor": "External Air Temperature"
+  },
+  {
+    "Id": 13610436,
+    "captureDate": "2018-10-10T20:49:26.21",
+    "value": 77.00,
+    "sensor": "Air Humidity Sensor"
+  },
+  {
+    "Id": 13610435,
+    "captureDate": "2018-10-10T20:49:26.21",
+    "value": 17.00,
+    "sensor": "Air Temperature Sensor"
+  },
+  {
+    "Id": 13610434,
+    "captureDate": "2018-10-10T20:49:26.21",
+    "value": 20.80,
+    "sensor": "Water Temperature Sensor"
+  },
+  {
+    "Id": 13610433,
+    "captureDate": "2018-10-10T20:49:26.21",
+    "value": 7.60,
+    "sensor": "pH Sensor"
+  },
+  {
+    "Id": 13610099,
+    "captureDate": "2018-10-10T20:39:25.913",
+    "value": 7.60,
+    "sensor": "pH Sensor"
+  },
+  {
+    "Id": 13610100,
+    "captureDate": "2018-10-10T20:39:25.913",
+    "value": 20.80,
+    "sensor": "Water Temperature Sensor"
+  },
+  {
+    "Id": 13610101,
+    "captureDate": "2018-10-10T20:39:25.913",
+    "value": 17.10,
+    "sensor": "Air Temperature Sensor"
+  },
+  {
+    "Id": 13610102,
+    "captureDate": "2018-10-10T20:39:25.913",
+    "value": 77.20,
+    "sensor": "Air Humidity Sensor"
+  },
+  {
+    "Id": 13610103,
+    "captureDate": "2018-10-10T20:39:25.913",
+    "value": 14.51,
+    "sensor": "External Air Temperature"
+  },
+  {
+    "Id": 13610104,
+    "captureDate": "2018-10-10T20:39:25.913",
+    "value": 93.00,
+    "sensor": "External Air Humidity"
+  },
+  {
+    "Id": 13609782,
+    "captureDate": "2018-10-10T20:29:25.947",
+    "value": 93.00,
+    "sensor": "External Air Humidity"
+  },
+  {
+    "Id": 13609781,
+    "captureDate": "2018-10-10T20:29:25.947",
+    "value": 14.51,
+    "sensor": "External Air Temperature"
+  },
+  {
+    "Id": 13609780,
+    "captureDate": "2018-10-10T20:29:25.947",
+    "value": 77.00,
+    "sensor": "Air Humidity Sensor"
+  },
+  {
+    "Id": 13609779,
+    "captureDate": "2018-10-10T20:29:25.947",
+    "value": 17.10,
+    "sensor": "Air Temperature Sensor"
+  },
+  {
+    "Id": 13609778,
+    "captureDate": "2018-10-10T20:29:25.947",
+    "value": 20.80,
+    "sensor": "Water Temperature Sensor"
+  },
+  {
+    "Id": 13609777,
+    "captureDate": "2018-10-10T20:29:25.947",
+    "value": 7.60,
+    "sensor": "pH Sensor"
+  },
+  {
+    "Id": 13609457,
+    "captureDate": "2018-10-10T20:19:26.203",
+    "value": 7.60,
+    "sensor": "pH Sensor"
+  },
+  {
+    "Id": 13609458,
+    "captureDate": "2018-10-10T20:19:26.203",
+    "value": 21.00,
+    "sensor": "Water Temperature Sensor"
+  },
+  {
+    "Id": 13609459,
+    "captureDate": "2018-10-10T20:19:26.203",
+    "value": 17.10,
+    "sensor": "Air Temperature Sensor"
+  },
+  {
+    "Id": 13609460,
+    "captureDate": "2018-10-10T20:19:26.203",
+    "value": 76.30,
+    "sensor": "Air Humidity Sensor"
+  },
+  {
+    "Id": 13609461,
+    "captureDate": "2018-10-10T20:19:26.203",
+    "value": 14.51,
+    "sensor": "External Air Temperature"
+  },
+  {
+    "Id": 13609462,
+    "captureDate": "2018-10-10T20:19:26.203",
+    "value": 93.00,
+    "sensor": "External Air Humidity"
+  },
+  {
+    "Id": 13609134,
+    "captureDate": "2018-10-10T20:09:25.943",
+    "value": 93.00,
+    "sensor": "External Air Humidity"
+  },
+  {
+    "Id": 13609133,
+    "captureDate": "2018-10-10T20:09:25.943",
+    "value": 14.51,
+    "sensor": "External Air Temperature"
+  },
+  {
+    "Id": 13609132,
+    "captureDate": "2018-10-10T20:09:25.943",
+    "value": 76.10,
+    "sensor": "Air Humidity Sensor"
+  },
+  {
+    "Id": 13609131,
+    "captureDate": "2018-10-10T20:09:25.943",
+    "value": 17.10,
+    "sensor": "Air Temperature Sensor"
+  },
+  {
+    "Id": 13609130,
+    "captureDate": "2018-10-10T20:09:25.943",
+    "value": 21.00,
+    "sensor": "Water Temperature Sensor"
+  },
+  {
+    "Id": 13609129,
+    "captureDate": "2018-10-10T20:09:25.943",
+    "value": 7.60,
+    "sensor": "pH Sensor"
+  },
+  {
+    "Id": 13608797,
+    "captureDate": "2018-10-10T19:59:26.51",
+    "value": 7.60,
+    "sensor": "pH Sensor"
+  },
+  {
+    "Id": 13608798,
+    "captureDate": "2018-10-10T19:59:26.51",
+    "value": 21.00,
+    "sensor": "Water Temperature Sensor"
+  },
+  {
+    "Id": 13608799,
+    "captureDate": "2018-10-10T19:59:26.51",
+    "value": 17.20,
+    "sensor": "Air Temperature Sensor"
+  },
+  {
+    "Id": 13608800,
+    "captureDate": "2018-10-10T19:59:26.51",
+    "value": 75.90,
+    "sensor": "Air Humidity Sensor"
+  },
+  {
+    "Id": 13608802,
+    "captureDate": "2018-10-10T19:59:26.51",
+    "value": 14.51,
+    "sensor": "External Air Temperature"
+  },
+  {
+    "Id": 13608804,
+    "captureDate": "2018-10-10T19:59:26.51",
+    "value": 93.00,
+    "sensor": "External Air Humidity"
+  },
+  {
+    "Id": 13608474,
+    "captureDate": "2018-10-10T19:49:25.933",
+    "value": 93.00,
+    "sensor": "External Air Humidity"
+  },
+  {
+    "Id": 13608473,
+    "captureDate": "2018-10-10T19:49:25.933",
+    "value": 14.51,
+    "sensor": "External Air Temperature"
+  },
+  {
+    "Id": 13608472,
+    "captureDate": "2018-10-10T19:49:25.933",
+    "value": 75.70,
+    "sensor": "Air Humidity Sensor"
+  },
+  {
+    "Id": 13608471,
+    "captureDate": "2018-10-10T19:49:25.933",
+    "value": 17.20,
+    "sensor": "Air Temperature Sensor"
+  },
+  {
+    "Id": 13608470,
+    "captureDate": "2018-10-10T19:49:25.933",
+    "value": 21.10,
+    "sensor": "Water Temperature Sensor"
+  },
+  {
+    "Id": 13608469,
+    "captureDate": "2018-10-10T19:49:25.933",
+    "value": 7.60,
+    "sensor": "pH Sensor"
+  },
+  {
+    "Id": 13608147,
+    "captureDate": "2018-10-10T19:39:25.923",
+    "value": 7.60,
+    "sensor": "pH Sensor"
+  },
+  {
+    "Id": 13608148,
+    "captureDate": "2018-10-10T19:39:25.923",
+    "value": 21.20,
+    "sensor": "Water Temperature Sensor"
+  },
+  {
+    "Id": 13608149,
+    "captureDate": "2018-10-10T19:39:25.923",
+    "value": 17.30,
+    "sensor": "Air Temperature Sensor"
+  },
+  {
+    "Id": 13608150,
+    "captureDate": "2018-10-10T19:39:25.923",
+    "value": 77.00,
+    "sensor": "Air Humidity Sensor"
+  },
+  {
+    "Id": 13608151,
+    "captureDate": "2018-10-10T19:39:25.923",
+    "value": 14.51,
+    "sensor": "External Air Temperature"
+  },
+  {
+    "Id": 13608153,
+    "captureDate": "2018-10-10T19:39:25.923",
+    "value": 93.00,
+    "sensor": "External Air Humidity"
+  },
+  {
+    "Id": 13607824,
+    "captureDate": "2018-10-10T19:29:26.307",
+    "value": 93.00,
+    "sensor": "External Air Humidity"
+  },
+  {
+    "Id": 13607823,
+    "captureDate": "2018-10-10T19:29:26.307",
+    "value": 14.51,
+    "sensor": "External Air Temperature"
+  },
+  {
+    "Id": 13607822,
+    "captureDate": "2018-10-10T19:29:26.307",
+    "value": 75.30,
+    "sensor": "Air Humidity Sensor"
+  },
+  {
+    "Id": 13607821,
+    "captureDate": "2018-10-10T19:29:26.307",
+    "value": 17.30,
+    "sensor": "Air Temperature Sensor"
+  },
+  {
+    "Id": 13607820,
+    "captureDate": "2018-10-10T19:29:26.307",
+    "value": 21.20,
+    "sensor": "Water Temperature Sensor"
+  },
+  {
+    "Id": 13607819,
+    "captureDate": "2018-10-10T19:29:26.307",
+    "value": 7.60,
+    "sensor": "pH Sensor"
+  },
+  {
+    "Id": 13607499,
+    "captureDate": "2018-10-10T19:19:26.01",
+    "value": 7.60,
+    "sensor": "pH Sensor"
+  },
+  {
+    "Id": 13607500,
+    "captureDate": "2018-10-10T19:19:26.01",
+    "value": 21.30,
+    "sensor": "Water Temperature Sensor"
+  },
+  {
+    "Id": 13607501,
+    "captureDate": "2018-10-10T19:19:26.01",
+    "value": 17.40,
+    "sensor": "Air Temperature Sensor"
+  },
+  {
+    "Id": 13607502,
+    "captureDate": "2018-10-10T19:19:26.01",
+    "value": 74.80,
+    "sensor": "Air Humidity Sensor"
+  },
+  {
+    "Id": 13607503,
+    "captureDate": "2018-10-10T19:19:26.01",
+    "value": 15.51,
+    "sensor": "External Air Temperature"
+  },
+  {
+    "Id": 13607504,
+    "captureDate": "2018-10-10T19:19:26.01",
+    "value": 93.00,
+    "sensor": "External Air Humidity"
+  },
+  {
+    "Id": 13607178,
+    "captureDate": "2018-10-10T19:09:26.847",
+    "value": 93.00,
+    "sensor": "External Air Humidity"
+  },
+  {
+    "Id": 13607177,
+    "captureDate": "2018-10-10T19:09:26.847",
+    "value": 15.51,
+    "sensor": "External Air Temperature"
+  },
+  {
+    "Id": 13607176,
+    "captureDate": "2018-10-10T19:09:26.847",
+    "value": 74.60,
+    "sensor": "Air Humidity Sensor"
+  },
+  {
+    "Id": 13607175,
+    "captureDate": "2018-10-10T19:09:26.847",
+    "value": 17.40,
+    "sensor": "Air Temperature Sensor"
+  },
+  {
+    "Id": 13607174,
+    "captureDate": "2018-10-10T19:09:26.847",
+    "value": 21.30,
+    "sensor": "Water Temperature Sensor"
+  },
+  {
+    "Id": 13607173,
+    "captureDate": "2018-10-10T19:09:26.847",
+    "value": 7.60,
+    "sensor": "pH Sensor"
+  },
+  {
+    "Id": 13606845,
+    "captureDate": "2018-10-10T18:59:26.253",
+    "value": 7.60,
+    "sensor": "pH Sensor"
+  },
+  {
+    "Id": 13606846,
+    "captureDate": "2018-10-10T18:59:26.253",
+    "value": 21.40,
+    "sensor": "Water Temperature Sensor"
+  },
+  {
+    "Id": 13606847,
+    "captureDate": "2018-10-10T18:59:26.253",
+    "value": 17.40,
+    "sensor": "Air Temperature Sensor"
+  },
+  {
+    "Id": 13606848,
+    "captureDate": "2018-10-10T18:59:26.253",
+    "value": 74.40,
+    "sensor": "Air Humidity Sensor"
+  },
+  {
+    "Id": 13606849,
+    "captureDate": "2018-10-10T18:59:26.253",
+    "value": 15.51,
+    "sensor": "External Air Temperature"
+  },
+  {
+    "Id": 13606851,
+    "captureDate": "2018-10-10T18:59:26.253",
+    "value": 93.00,
+    "sensor": "External Air Humidity"
+  },
+  {
+    "Id": 13606522,
+    "captureDate": "2018-10-10T18:49:25.86",
+    "value": 93.00,
+    "sensor": "External Air Humidity"
+  },
+  {
+    "Id": 13606521,
+    "captureDate": "2018-10-10T18:49:25.86",
+    "value": 15.51,
+    "sensor": "External Air Temperature"
+  },
+  {
+    "Id": 13606520,
+    "captureDate": "2018-10-10T18:49:25.86",
+    "value": 74.90,
+    "sensor": "Air Humidity Sensor"
+  },
+  {
+    "Id": 13606519,
+    "captureDate": "2018-10-10T18:49:25.86",
+    "value": 17.40,
+    "sensor": "Air Temperature Sensor"
+  },
+  {
+    "Id": 13606518,
+    "captureDate": "2018-10-10T18:49:25.86",
+    "value": 21.50,
+    "sensor": "Water Temperature Sensor"
+  },
+  {
+    "Id": 13606517,
+    "captureDate": "2018-10-10T18:49:25.86",
+    "value": 7.60,
+    "sensor": "pH Sensor"
+  },
+  {
+    "Id": 13606198,
+    "captureDate": "2018-10-10T18:39:26.627",
+    "value": 7.60,
+    "sensor": "pH Sensor"
+  },
+  {
+    "Id": 13606200,
+    "captureDate": "2018-10-10T18:39:26.627",
+    "value": 21.50,
+    "sensor": "Water Temperature Sensor"
+  },
+  {
+    "Id": 13606201,
+    "captureDate": "2018-10-10T18:39:26.627",
+    "value": 17.50,
+    "sensor": "Air Temperature Sensor"
+  },
+  {
+    "Id": 13606202,
+    "captureDate": "2018-10-10T18:39:26.627",
+    "value": 74.50,
+    "sensor": "Air Humidity Sensor"
+  },
+  {
+    "Id": 13606205,
+    "captureDate": "2018-10-10T18:39:26.627",
+    "value": 15.51,
+    "sensor": "External Air Temperature"
+  },
+  {
+    "Id": 13606206,
+    "captureDate": "2018-10-10T18:39:26.627",
+    "value": 93.00,
+    "sensor": "External Air Humidity"
+  },
+  {
+    "Id": 13605874,
+    "captureDate": "2018-10-10T18:29:25.87",
+    "value": 93.00,
+    "sensor": "External Air Humidity"
+  },
+  {
+    "Id": 13605873,
+    "captureDate": "2018-10-10T18:29:25.87",
+    "value": 15.51,
+    "sensor": "External Air Temperature"
+  },
+  {
+    "Id": 13605872,
+    "captureDate": "2018-10-10T18:29:25.87",
+    "value": 74.00,
+    "sensor": "Air Humidity Sensor"
+  },
+  {
+    "Id": 13605871,
+    "captureDate": "2018-10-10T18:29:25.87",
+    "value": 17.60,
+    "sensor": "Air Temperature Sensor"
+  },
+  {
+    "Id": 13605870,
+    "captureDate": "2018-10-10T18:29:25.87",
+    "value": 21.70,
+    "sensor": "Water Temperature Sensor"
+  },
+  {
+    "Id": 13605869,
+    "captureDate": "2018-10-10T18:29:25.87",
+    "value": 7.60,
+    "sensor": "pH Sensor"
+  },
+  {
+    "Id": 13605543,
+    "captureDate": "2018-10-10T18:19:25.983",
+    "value": 7.60,
+    "sensor": "pH Sensor"
+  },
+  {
+    "Id": 13605544,
+    "captureDate": "2018-10-10T18:19:25.983",
+    "value": 21.70,
+    "sensor": "Water Temperature Sensor"
+  },
+  {
+    "Id": 13605545,
+    "captureDate": "2018-10-10T18:19:25.983",
+    "value": 17.80,
+    "sensor": "Air Temperature Sensor"
+  },
+  {
+    "Id": 13605546,
+    "captureDate": "2018-10-10T18:19:25.983",
+    "value": 73.10,
+    "sensor": "Air Humidity Sensor"
+  },
+  {
+    "Id": 13605547,
+    "captureDate": "2018-10-10T18:19:25.983",
+    "value": 16.55,
+    "sensor": "External Air Temperature"
+  },
+  {
+    "Id": 13605548,
+    "captureDate": "2018-10-10T18:19:25.983",
+    "value": 87.00,
+    "sensor": "External Air Humidity"
+  },
+  {
+    "Id": 13605222,
+    "captureDate": "2018-10-10T18:09:26.337",
+    "value": 87.00,
+    "sensor": "External Air Humidity"
+  },
+  {
+    "Id": 13605221,
+    "captureDate": "2018-10-10T18:09:26.337",
+    "value": 16.55,
+    "sensor": "External Air Temperature"
+  },
+  {
+    "Id": 13605220,
+    "captureDate": "2018-10-10T18:09:26.337",
+    "value": 72.90,
+    "sensor": "Air Humidity Sensor"
+  },
+  {
+    "Id": 13605219,
+    "captureDate": "2018-10-10T18:09:26.337",
+    "value": 17.80,
+    "sensor": "Air Temperature Sensor"
+  },
+  {
+    "Id": 13605218,
+    "captureDate": "2018-10-10T18:09:26.337",
+    "value": 21.70,
+    "sensor": "Water Temperature Sensor"
+  },
+  {
+    "Id": 13605217,
+    "captureDate": "2018-10-10T18:09:26.337",
+    "value": 7.70,
+    "sensor": "pH Sensor"
+  },
+  {
+    "Id": 13604893,
+    "captureDate": "2018-10-10T17:59:25.963",
+    "value": 7.70,
+    "sensor": "pH Sensor"
+  },
+  {
+    "Id": 13604894,
+    "captureDate": "2018-10-10T17:59:25.963",
+    "value": 21.90,
+    "sensor": "Water Temperature Sensor"
+  },
+  {
+    "Id": 13604895,
+    "captureDate": "2018-10-10T17:59:25.963",
+    "value": 17.90,
+    "sensor": "Air Temperature Sensor"
+  },
+  {
+    "Id": 13604896,
+    "captureDate": "2018-10-10T17:59:25.963",
+    "value": 72.10,
+    "sensor": "Air Humidity Sensor"
+  },
+  {
+    "Id": 13604897,
+    "captureDate": "2018-10-10T17:59:25.963",
+    "value": 16.55,
+    "sensor": "External Air Temperature"
+  },
+  {
+    "Id": 13604898,
+    "captureDate": "2018-10-10T17:59:25.963",
+    "value": 87.00,
+    "sensor": "External Air Humidity"
+  },
+  {
+    "Id": 13604570,
+    "captureDate": "2018-10-10T17:49:25.9",
+    "value": 87.00,
+    "sensor": "External Air Humidity"
+  },
+  {
+    "Id": 13604569,
+    "captureDate": "2018-10-10T17:49:25.9",
+    "value": 16.54,
+    "sensor": "External Air Temperature"
+  },
+  {
+    "Id": 13604568,
+    "captureDate": "2018-10-10T17:49:25.9",
+    "value": 71.30,
+    "sensor": "Air Humidity Sensor"
+  },
+  {
+    "Id": 13604567,
+    "captureDate": "2018-10-10T17:49:25.9",
+    "value": 18.00,
+    "sensor": "Air Temperature Sensor"
+  },
+  {
+    "Id": 13604566,
+    "captureDate": "2018-10-10T17:49:25.9",
+    "value": 21.90,
+    "sensor": "Water Temperature Sensor"
+  },
+  {
+    "Id": 13604565,
+    "captureDate": "2018-10-10T17:49:25.9",
+    "value": 7.70,
+    "sensor": "pH Sensor"
+  },
+  {
+    "Id": 13604237,
+    "captureDate": "2018-10-10T17:39:25.693",
+    "value": 7.70,
+    "sensor": "pH Sensor"
+  },
+  {
+    "Id": 13604238,
+    "captureDate": "2018-10-10T17:39:25.693",
+    "value": 22.00,
+    "sensor": "Water Temperature Sensor"
+  },
+  {
+    "Id": 13604239,
+    "captureDate": "2018-10-10T17:39:25.693",
+    "value": 18.10,
+    "sensor": "Air Temperature Sensor"
+  },
+  {
+    "Id": 13604240,
+    "captureDate": "2018-10-10T17:39:25.693",
+    "value": 70.80,
+    "sensor": "Air Humidity Sensor"
+  },
+  {
+    "Id": 13604241,
+    "captureDate": "2018-10-10T17:39:25.693",
+    "value": 16.55,
+    "sensor": "External Air Temperature"
+  },
+  {
+    "Id": 13604242,
+    "captureDate": "2018-10-10T17:39:25.693",
+    "value": 87.00,
+    "sensor": "External Air Humidity"
+  },
+  {
+    "Id": 13603914,
+    "captureDate": "2018-10-10T17:29:26.277",
+    "value": 87.00,
+    "sensor": "External Air Humidity"
+  },
+  {
+    "Id": 13603913,
+    "captureDate": "2018-10-10T17:29:26.277",
+    "value": 16.55,
+    "sensor": "External Air Temperature"
+  },
+  {
+    "Id": 13603912,
+    "captureDate": "2018-10-10T17:29:26.277",
+    "value": 70.90,
+    "sensor": "Air Humidity Sensor"
+  },
+  {
+    "Id": 13603911,
+    "captureDate": "2018-10-10T17:29:26.277",
+    "value": 18.30,
+    "sensor": "Air Temperature Sensor"
+  },
+  {
+    "Id": 13603910,
+    "captureDate": "2018-10-10T17:29:26.277",
+    "value": 22.00,
+    "sensor": "Water Temperature Sensor"
+  },
+  {
+    "Id": 13603909,
+    "captureDate": "2018-10-10T17:29:26.277",
+    "value": 7.70,
+    "sensor": "pH Sensor"
+  },
+  {
+    "Id": 13603587,
+    "captureDate": "2018-10-10T17:19:26.033",
+    "value": 7.70,
+    "sensor": "pH Sensor"
+  },
+  {
+    "Id": 13603588,
+    "captureDate": "2018-10-10T17:19:26.033",
+    "value": 22.20,
+    "sensor": "Water Temperature Sensor"
+  },
+  {
+    "Id": 13603589,
+    "captureDate": "2018-10-10T17:19:26.033",
+    "value": 18.60,
+    "sensor": "Air Temperature Sensor"
+  },
+  {
+    "Id": 13603590,
+    "captureDate": "2018-10-10T17:19:26.033",
+    "value": 70.50,
+    "sensor": "Air Humidity Sensor"
+  },
+  {
+    "Id": 13603591,
+    "captureDate": "2018-10-10T17:19:26.033",
+    "value": 16.54,
+    "sensor": "External Air Temperature"
+  },
+  {
+    "Id": 13603592,
+    "captureDate": "2018-10-10T17:19:26.033",
+    "value": 87.00,
+    "sensor": "External Air Humidity"
+  },
+  {
+    "Id": 13603266,
+    "captureDate": "2018-10-10T17:09:25.89",
+    "value": 87.00,
+    "sensor": "External Air Humidity"
+  },
+  {
+    "Id": 13603265,
+    "captureDate": "2018-10-10T17:09:25.89",
+    "value": 17.06,
+    "sensor": "External Air Temperature"
+  },
+  {
+    "Id": 13603264,
+    "captureDate": "2018-10-10T17:09:25.89",
+    "value": 68.50,
+    "sensor": "Air Humidity Sensor"
+  },
+  {
+    "Id": 13603263,
+    "captureDate": "2018-10-10T17:09:25.89",
+    "value": 19.00,
+    "sensor": "Air Temperature Sensor"
+  },
+  {
+    "Id": 13603262,
+    "captureDate": "2018-10-10T17:09:25.89",
+    "value": 22.20,
+    "sensor": "Water Temperature Sensor"
+  },
+  {
+    "Id": 13603261,
+    "captureDate": "2018-10-10T17:09:25.89",
+    "value": 7.70,
+    "sensor": "pH Sensor"
+  },
+  {
+    "Id": 13602955,
+    "captureDate": "2018-10-10T16:59:25.99",
+    "value": 7.80,
+    "sensor": "pH Sensor"
+  },
+  {
+    "Id": 13602956,
+    "captureDate": "2018-10-10T16:59:25.99",
+    "value": 22.40,
+    "sensor": "Water Temperature Sensor"
+  },
+  {
+    "Id": 13602957,
+    "captureDate": "2018-10-10T16:59:25.99",
+    "value": 19.30,
+    "sensor": "Air Temperature Sensor"
+  },
+  {
+    "Id": 13602958,
+    "captureDate": "2018-10-10T16:59:25.99",
+    "value": 67.40,
+    "sensor": "Air Humidity Sensor"
+  },
+  {
+    "Id": 13602959,
+    "captureDate": "2018-10-10T16:59:25.99",
+    "value": 17.06,
+    "sensor": "External Air Temperature"
+  },
+  {
+    "Id": 13602960,
+    "captureDate": "2018-10-10T16:59:25.99",
+    "value": 87.00,
+    "sensor": "External Air Humidity"
+  },
+  {
+    "Id": 13602626,
+    "captureDate": "2018-10-10T16:49:25.783",
+    "value": 87.00,
+    "sensor": "External Air Humidity"
+  },
+  {
+    "Id": 13602625,
+    "captureDate": "2018-10-10T16:49:25.783",
+    "value": 17.06,
+    "sensor": "External Air Temperature"
+  },
+  {
+    "Id": 13602624,
+    "captureDate": "2018-10-10T16:49:25.783",
+    "value": 66.40,
+    "sensor": "Air Humidity Sensor"
+  },
+  {
+    "Id": 13602623,
+    "captureDate": "2018-10-10T16:49:25.783",
+    "value": 19.70,
+    "sensor": "Air Temperature Sensor"
+  },
+  {
+    "Id": 13602622,
+    "captureDate": "2018-10-10T16:49:25.783",
+    "value": 22.40,
+    "sensor": "Water Temperature Sensor"
+  },
+  {
+    "Id": 13602621,
+    "captureDate": "2018-10-10T16:49:25.783",
+    "value": 7.80,
+    "sensor": "pH Sensor"
+  },
+  {
+    "Id": 13602305,
+    "captureDate": "2018-10-10T16:39:26.023",
+    "value": 7.80,
+    "sensor": "pH Sensor"
+  },
+  {
+    "Id": 13602306,
+    "captureDate": "2018-10-10T16:39:26.023",
+    "value": 22.40,
+    "sensor": "Water Temperature Sensor"
+  },
+  {
+    "Id": 13602307,
+    "captureDate": "2018-10-10T16:39:26.023",
+    "value": 19.90,
+    "sensor": "Air Temperature Sensor"
+  },
+  {
+    "Id": 13602308,
+    "captureDate": "2018-10-10T16:39:26.023",
+    "value": 66.00,
+    "sensor": "Air Humidity Sensor"
+  },
+  {
+    "Id": 13602309,
+    "captureDate": "2018-10-10T16:39:26.023",
+    "value": 17.05,
+    "sensor": "External Air Temperature"
+  },
+  {
+    "Id": 13602310,
+    "captureDate": "2018-10-10T16:39:26.023",
+    "value": 87.00,
+    "sensor": "External Air Humidity"
+  },
+  {
+    "Id": 13601976,
+    "captureDate": "2018-10-10T16:29:25.907",
+    "value": 82.00,
+    "sensor": "External Air Humidity"
+  },
+  {
+    "Id": 13601975,
+    "captureDate": "2018-10-10T16:29:25.907",
+    "value": 17.55,
+    "sensor": "External Air Temperature"
+  },
+  {
+    "Id": 13601974,
+    "captureDate": "2018-10-10T16:29:25.907",
+    "value": 66.20,
+    "sensor": "Air Humidity Sensor"
+  },
+  {
+    "Id": 13601973,
+    "captureDate": "2018-10-10T16:29:25.907",
+    "value": 20.00,
+    "sensor": "Air Temperature Sensor"
+  },
+  {
+    "Id": 13601972,
+    "captureDate": "2018-10-10T16:29:25.907",
+    "value": 22.40,
+    "sensor": "Water Temperature Sensor"
+  },
+  {
+    "Id": 13601971,
+    "captureDate": "2018-10-10T16:29:25.907",
+    "value": 7.80,
+    "sensor": "pH Sensor"
+  },
+  {
+    "Id": 13601649,
+    "captureDate": "2018-10-10T16:19:25.99",
+    "value": 7.90,
+    "sensor": "pH Sensor"
+  },
+  {
+    "Id": 13601650,
+    "captureDate": "2018-10-10T16:19:25.99",
+    "value": 22.40,
+    "sensor": "Water Temperature Sensor"
+  },
+  {
+    "Id": 13601651,
+    "captureDate": "2018-10-10T16:19:25.99",
+    "value": 20.30,
+    "sensor": "Air Temperature Sensor"
+  },
+  {
+    "Id": 13601652,
+    "captureDate": "2018-10-10T16:19:25.99",
+    "value": 65.60,
+    "sensor": "Air Humidity Sensor"
+  },
+  {
+    "Id": 13601653,
+    "captureDate": "2018-10-10T16:19:25.99",
+    "value": 18.07,
+    "sensor": "External Air Temperature"
+  },
+  {
+    "Id": 13601654,
+    "captureDate": "2018-10-10T16:19:25.99",
+    "value": 82.00,
+    "sensor": "External Air Humidity"
+  },
+  {
+    "Id": 13601334,
+    "captureDate": "2018-10-10T16:09:26.23",
+    "value": 82.00,
+    "sensor": "External Air Humidity"
+  },
+  {
+    "Id": 13601333,
+    "captureDate": "2018-10-10T16:09:26.23",
+    "value": 18.07,
+    "sensor": "External Air Temperature"
+  },
+  {
+    "Id": 13601332,
+    "captureDate": "2018-10-10T16:09:26.23",
+    "value": 64.00,
+    "sensor": "Air Humidity Sensor"
+  },
+  {
+    "Id": 13601331,
+    "captureDate": "2018-10-10T16:09:26.23",
+    "value": 20.50,
+    "sensor": "Air Temperature Sensor"
+  },
+  {
+    "Id": 13601330,
+    "captureDate": "2018-10-10T16:09:26.23",
+    "value": 22.60,
+    "sensor": "Water Temperature Sensor"
+  },
+  {
+    "Id": 13601329,
+    "captureDate": "2018-10-10T16:09:26.23",
+    "value": 7.90,
+    "sensor": "pH Sensor"
+  },
+  {
+    "Id": 13601021,
+    "captureDate": "2018-10-10T15:59:25.92",
+    "value": 7.90,
+    "sensor": "pH Sensor"
+  },
+  {
+    "Id": 13601022,
+    "captureDate": "2018-10-10T15:59:25.92",
+    "value": 22.60,
+    "sensor": "Water Temperature Sensor"
+  },
+  {
+    "Id": 13601023,
+    "captureDate": "2018-10-10T15:59:25.92",
+    "value": 20.70,
+    "sensor": "Air Temperature Sensor"
+  },
+  {
+    "Id": 13601024,
+    "captureDate": "2018-10-10T15:59:25.92",
+    "value": 64.20,
+    "sensor": "Air Humidity Sensor"
+  },
+  {
+    "Id": 13601025,
+    "captureDate": "2018-10-10T15:59:25.92",
+    "value": 18.06,
+    "sensor": "External Air Temperature"
+  },
+  {
+    "Id": 13601026,
+    "captureDate": "2018-10-10T15:59:25.92",
+    "value": 82.00,
+    "sensor": "External Air Humidity"
+  },
+  {
+    "Id": 13600698,
+    "captureDate": "2018-10-10T15:49:26.19",
+    "value": 82.00,
+    "sensor": "External Air Humidity"
+  },
+  {
+    "Id": 13600697,
+    "captureDate": "2018-10-10T15:49:26.19",
+    "value": 18.05,
+    "sensor": "External Air Temperature"
+  },
+  {
+    "Id": 13600696,
+    "captureDate": "2018-10-10T15:49:26.19",
+    "value": 62.70,
+    "sensor": "Air Humidity Sensor"
+  },
+  {
+    "Id": 13600695,
+    "captureDate": "2018-10-10T15:49:26.19",
+    "value": 20.70,
+    "sensor": "Air Temperature Sensor"
+  },
+  {
+    "Id": 13600694,
+    "captureDate": "2018-10-10T15:49:26.19",
+    "value": 22.60,
+    "sensor": "Water Temperature Sensor"
+  },
+  {
+    "Id": 13600693,
+    "captureDate": "2018-10-10T15:49:26.19",
+    "value": 7.90,
+    "sensor": "pH Sensor"
+  },
+  {
+    "Id": 13600371,
+    "captureDate": "2018-10-10T15:39:25.82",
+    "value": 7.90,
+    "sensor": "pH Sensor"
+  },
+  {
+    "Id": 13600372,
+    "captureDate": "2018-10-10T15:39:25.82",
+    "value": 22.60,
+    "sensor": "Water Temperature Sensor"
+  },
+  {
+    "Id": 13600373,
+    "captureDate": "2018-10-10T15:39:25.82",
+    "value": 20.70,
+    "sensor": "Air Temperature Sensor"
+  },
+  {
+    "Id": 13600374,
+    "captureDate": "2018-10-10T15:39:25.82",
+    "value": 62.90,
+    "sensor": "Air Humidity Sensor"
+  },
+  {
+    "Id": 13600375,
+    "captureDate": "2018-10-10T15:39:25.82",
+    "value": 18.05,
+    "sensor": "External Air Temperature"
+  },
+  {
+    "Id": 13600376,
+    "captureDate": "2018-10-10T15:39:25.82",
+    "value": 82.00,
+    "sensor": "External Air Humidity"
+  },
+  {
+    "Id": 13600048,
+    "captureDate": "2018-10-10T15:29:25.803",
+    "value": 82.00,
+    "sensor": "External Air Humidity"
+  },
+  {
+    "Id": 13600047,
+    "captureDate": "2018-10-10T15:29:25.803",
+    "value": 18.06,
+    "sensor": "External Air Temperature"
+  },
+  {
+    "Id": 13600046,
+    "captureDate": "2018-10-10T15:29:25.803",
+    "value": 60.90,
+    "sensor": "Air Humidity Sensor"
+  },
+  {
+    "Id": 13600045,
+    "captureDate": "2018-10-10T15:29:25.803",
+    "value": 20.70,
+    "sensor": "Air Temperature Sensor"
+  },
+  {
+    "Id": 13600044,
+    "captureDate": "2018-10-10T15:29:25.803",
+    "value": 22.60,
+    "sensor": "Water Temperature Sensor"
+  },
+  {
+    "Id": 13600043,
+    "captureDate": "2018-10-10T15:29:25.803",
+    "value": 8.00,
+    "sensor": "pH Sensor"
+  },
+  {
+    "Id": 13599721,
+    "captureDate": "2018-10-10T15:19:25.923",
+    "value": 8.00,
+    "sensor": "pH Sensor"
+  },
+  {
+    "Id": 13599722,
+    "captureDate": "2018-10-10T15:19:25.923",
+    "value": 22.70,
+    "sensor": "Water Temperature Sensor"
+  },
+  {
+    "Id": 13599723,
+    "captureDate": "2018-10-10T15:19:25.923",
+    "value": 20.80,
+    "sensor": "Air Temperature Sensor"
+  },
+  {
+    "Id": 13599724,
+    "captureDate": "2018-10-10T15:19:25.923",
+    "value": 61.20,
+    "sensor": "Air Humidity Sensor"
+  },
+  {
+    "Id": 13599725,
+    "captureDate": "2018-10-10T15:19:25.923",
+    "value": 18.06,
+    "sensor": "External Air Temperature"
+  },
+  {
+    "Id": 13599726,
+    "captureDate": "2018-10-10T15:19:25.923",
+    "value": 82.00,
+    "sensor": "External Air Humidity"
+  },
+  {
+    "Id": 13599406,
+    "captureDate": "2018-10-10T15:09:25.957",
+    "value": 77.00,
+    "sensor": "External Air Humidity"
+  },
+  {
+    "Id": 13599405,
+    "captureDate": "2018-10-10T15:09:25.957",
+    "value": 18.58,
+    "sensor": "External Air Temperature"
+  },
+  {
+    "Id": 13599404,
+    "captureDate": "2018-10-10T15:09:25.957",
+    "value": 60.30,
+    "sensor": "Air Humidity Sensor"
+  },
+  {
+    "Id": 13599403,
+    "captureDate": "2018-10-10T15:09:25.957",
+    "value": 20.80,
+    "sensor": "Air Temperature Sensor"
+  },
+  {
+    "Id": 13599402,
+    "captureDate": "2018-10-10T15:09:25.957",
+    "value": 22.70,
+    "sensor": "Water Temperature Sensor"
+  },
+  {
+    "Id": 13599401,
+    "captureDate": "2018-10-10T15:09:25.957",
+    "value": 8.00,
+    "sensor": "pH Sensor"
+  },
+  {
+    "Id": 13599090,
+    "captureDate": "2018-10-10T14:59:26.093",
+    "value": 8.10,
+    "sensor": "pH Sensor"
+  },
+  {
+    "Id": 13599091,
+    "captureDate": "2018-10-10T14:59:26.093",
+    "value": 22.70,
+    "sensor": "Water Temperature Sensor"
+  },
+  {
+    "Id": 13599092,
+    "captureDate": "2018-10-10T14:59:26.093",
+    "value": 20.90,
+    "sensor": "Air Temperature Sensor"
+  },
+  {
+    "Id": 13599093,
+    "captureDate": "2018-10-10T14:59:26.093",
+    "value": 58.80,
+    "sensor": "Air Humidity Sensor"
+  },
+  {
+    "Id": 13599102,
+    "captureDate": "2018-10-10T14:59:26.093",
+    "value": 18.58,
+    "sensor": "External Air Temperature"
+  },
+  {
+    "Id": 13599103,
+    "captureDate": "2018-10-10T14:59:26.093",
+    "value": 77.00,
+    "sensor": "External Air Humidity"
+  },
+  {
+    "Id": 13598768,
+    "captureDate": "2018-10-10T14:49:26.193",
+    "value": 77.00,
+    "sensor": "External Air Humidity"
+  },
+  {
+    "Id": 13598766,
+    "captureDate": "2018-10-10T14:49:26.193",
+    "value": 18.58,
+    "sensor": "External Air Temperature"
+  },
+  {
+    "Id": 13598765,
+    "captureDate": "2018-10-10T14:49:26.193",
+    "value": 57.40,
+    "sensor": "Air Humidity Sensor"
+  },
+  {
+    "Id": 13598764,
+    "captureDate": "2018-10-10T14:49:26.193",
+    "value": 21.10,
+    "sensor": "Air Temperature Sensor"
+  },
+  {
+    "Id": 13598763,
+    "captureDate": "2018-10-10T14:49:26.193",
+    "value": 22.90,
+    "sensor": "Water Temperature Sensor"
+  },
+  {
+    "Id": 13598762,
+    "captureDate": "2018-10-10T14:49:26.193",
+    "value": 8.10,
+    "sensor": "pH Sensor"
+  },
+  {
+    "Id": 13598422,
+    "captureDate": "2018-10-10T14:39:25.877",
+    "value": 8.10,
+    "sensor": "pH Sensor"
+  },
+  {
+    "Id": 13598423,
+    "captureDate": "2018-10-10T14:39:25.877",
+    "value": 22.90,
+    "sensor": "Water Temperature Sensor"
+  },
+  {
+    "Id": 13598424,
+    "captureDate": "2018-10-10T14:39:25.877",
+    "value": 21.50,
+    "sensor": "Air Temperature Sensor"
+  },
+  {
+    "Id": 13598425,
+    "captureDate": "2018-10-10T14:39:25.877",
+    "value": 55.40,
+    "sensor": "Air Humidity Sensor"
+  },
+  {
+    "Id": 13598426,
+    "captureDate": "2018-10-10T14:39:25.877",
+    "value": 18.57,
+    "sensor": "External Air Temperature"
+  },
+  {
+    "Id": 13598427,
+    "captureDate": "2018-10-10T14:39:25.877",
+    "value": 77.00,
+    "sensor": "External Air Humidity"
+  },
+  {
+    "Id": 13598105,
+    "captureDate": "2018-10-10T14:29:26.07",
+    "value": 82.00,
+    "sensor": "External Air Humidity"
+  },
+  {
+    "Id": 13598104,
+    "captureDate": "2018-10-10T14:29:26.07",
+    "value": 18.58,
+    "sensor": "External Air Temperature"
+  },
+  {
+    "Id": 13598101,
+    "captureDate": "2018-10-10T14:29:26.07",
+    "value": 54.40,
+    "sensor": "Air Humidity Sensor"
+  },
+  {
+    "Id": 13598100,
+    "captureDate": "2018-10-10T14:29:26.07",
+    "value": 22.00,
+    "sensor": "Air Temperature Sensor"
+  },
+  {
+    "Id": 13598098,
+    "captureDate": "2018-10-10T14:29:26.07",
+    "value": 22.90,
+    "sensor": "Water Temperature Sensor"
+  },
+  {
+    "Id": 13598096,
+    "captureDate": "2018-10-10T14:29:26.07",
+    "value": 8.10,
+    "sensor": "pH Sensor"
+  },
+  {
+    "Id": 13597766,
+    "captureDate": "2018-10-10T14:19:25.893",
+    "value": 8.10,
+    "sensor": "pH Sensor"
+  },
+  {
+    "Id": 13597767,
+    "captureDate": "2018-10-10T14:19:25.893",
+    "value": 22.90,
+    "sensor": "Water Temperature Sensor"
+  },
+  {
+    "Id": 13597768,
+    "captureDate": "2018-10-10T14:19:25.893",
+    "value": 21.70,
+    "sensor": "Air Temperature Sensor"
+  },
+  {
+    "Id": 13597769,
+    "captureDate": "2018-10-10T14:19:25.893",
+    "value": 53.70,
+    "sensor": "Air Humidity Sensor"
+  },
+  {
+    "Id": 13597770,
+    "captureDate": "2018-10-10T14:19:25.893",
+    "value": 19.07,
+    "sensor": "External Air Temperature"
+  },
+  {
+    "Id": 13597771,
+    "captureDate": "2018-10-10T14:19:25.893",
+    "value": 72.00,
+    "sensor": "External Air Humidity"
+  },
+  {
+    "Id": 13597461,
+    "captureDate": "2018-10-10T14:09:26.063",
+    "value": 72.00,
+    "sensor": "External Air Humidity"
+  },
+  {
+    "Id": 13597460,
+    "captureDate": "2018-10-10T14:09:26.063",
+    "value": 19.07,
+    "sensor": "External Air Temperature"
+  },
+  {
+    "Id": 13597459,
+    "captureDate": "2018-10-10T14:09:26.063",
+    "value": 51.60,
+    "sensor": "Air Humidity Sensor"
+  },
+  {
+    "Id": 13597458,
+    "captureDate": "2018-10-10T14:09:26.063",
+    "value": 22.30,
+    "sensor": "Air Temperature Sensor"
+  },
+  {
+    "Id": 13597457,
+    "captureDate": "2018-10-10T14:09:26.063",
+    "value": 22.90,
+    "sensor": "Water Temperature Sensor"
+  },
+  {
+    "Id": 13597456,
+    "captureDate": "2018-10-10T14:09:26.063",
+    "value": 8.20,
+    "sensor": "pH Sensor"
+  },
+  {
+    "Id": 13597146,
+    "captureDate": "2018-10-10T13:59:25.887",
+    "value": 8.20,
+    "sensor": "pH Sensor"
+  },
+  {
+    "Id": 13597147,
+    "captureDate": "2018-10-10T13:59:25.887",
+    "value": 22.90,
+    "sensor": "Water Temperature Sensor"
+  },
+  {
+    "Id": 13597148,
+    "captureDate": "2018-10-10T13:59:25.887",
+    "value": 22.70,
+    "sensor": "Air Temperature Sensor"
+  },
+  {
+    "Id": 13597149,
+    "captureDate": "2018-10-10T13:59:25.887",
+    "value": 50.20,
+    "sensor": "Air Humidity Sensor"
+  },
+  {
+    "Id": 13597150,
+    "captureDate": "2018-10-10T13:59:25.887",
+    "value": 19.06,
+    "sensor": "External Air Temperature"
+  },
+  {
+    "Id": 13597151,
+    "captureDate": "2018-10-10T13:59:25.887",
+    "value": 72.00,
+    "sensor": "External Air Humidity"
+  },
+  {
+    "Id": 13596835,
+    "captureDate": "2018-10-10T13:49:25.91",
+    "value": 72.00,
+    "sensor": "External Air Humidity"
+  },
+  {
+    "Id": 13596834,
+    "captureDate": "2018-10-10T13:49:25.91",
+    "value": 19.06,
+    "sensor": "External Air Temperature"
+  },
+  {
+    "Id": 13596833,
+    "captureDate": "2018-10-10T13:49:25.91",
+    "value": 49.10,
+    "sensor": "Air Humidity Sensor"
+  },
+  {
+    "Id": 13596832,
+    "captureDate": "2018-10-10T13:49:25.91",
+    "value": 23.40,
+    "sensor": "Air Temperature Sensor"
+  },
+  {
+    "Id": 13596831,
+    "captureDate": "2018-10-10T13:49:25.91",
+    "value": 22.90,
+    "sensor": "Water Temperature Sensor"
+  },
+  {
+    "Id": 13596830,
+    "captureDate": "2018-10-10T13:49:25.91",
+    "value": 8.20,
+    "sensor": "pH Sensor"
+  },
+  {
+    "Id": 13596496,
+    "captureDate": "2018-10-10T13:39:25.703",
+    "value": 8.20,
+    "sensor": "pH Sensor"
+  },
+  {
+    "Id": 13596497,
+    "captureDate": "2018-10-10T13:39:25.703",
+    "value": 22.90,
+    "sensor": "Water Temperature Sensor"
+  },
+  {
+    "Id": 13596498,
+    "captureDate": "2018-10-10T13:39:25.703",
+    "value": 23.80,
+    "sensor": "Air Temperature Sensor"
+  },
+  {
+    "Id": 13596499,
+    "captureDate": "2018-10-10T13:39:25.703",
+    "value": 47.80,
+    "sensor": "Air Humidity Sensor"
+  },
+  {
+    "Id": 13596500,
+    "captureDate": "2018-10-10T13:39:25.703",
+    "value": 19.05,
+    "sensor": "External Air Temperature"
+  },
+  {
+    "Id": 13596501,
+    "captureDate": "2018-10-10T13:39:25.703",
+    "value": 72.00,
+    "sensor": "External Air Humidity"
+  },
+  {
+    "Id": 13596179,
+    "captureDate": "2018-10-10T13:29:25.953",
+    "value": 72.00,
+    "sensor": "External Air Humidity"
+  },
+  {
+    "Id": 13596178,
+    "captureDate": "2018-10-10T13:29:25.953",
+    "value": 19.06,
+    "sensor": "External Air Temperature"
+  },
+  {
+    "Id": 13596177,
+    "captureDate": "2018-10-10T13:29:25.953",
+    "value": 47.30,
+    "sensor": "Air Humidity Sensor"
+  },
+  {
+    "Id": 13596176,
+    "captureDate": "2018-10-10T13:29:25.953",
+    "value": 23.80,
+    "sensor": "Air Temperature Sensor"
+  },
+  {
+    "Id": 13596175,
+    "captureDate": "2018-10-10T13:29:25.953",
+    "value": 22.90,
+    "sensor": "Water Temperature Sensor"
+  },
+  {
+    "Id": 13596174,
+    "captureDate": "2018-10-10T13:29:25.953",
+    "value": 8.20,
+    "sensor": "pH Sensor"
+  },
+  {
+    "Id": 13595840,
+    "captureDate": "2018-10-10T13:19:25.823",
+    "value": 8.30,
+    "sensor": "pH Sensor"
+  },
+  {
+    "Id": 13595841,
+    "captureDate": "2018-10-10T13:19:25.823",
+    "value": 22.90,
+    "sensor": "Water Temperature Sensor"
+  },
+  {
+    "Id": 13595842,
+    "captureDate": "2018-10-10T13:19:25.823",
+    "value": 23.50,
+    "sensor": "Air Temperature Sensor"
+  },
+  {
+    "Id": 13595843,
+    "captureDate": "2018-10-10T13:19:25.823",
+    "value": 45.80,
+    "sensor": "Air Humidity Sensor"
+  },
+  {
+    "Id": 13595862,
+    "captureDate": "2018-10-10T13:19:25.823",
+    "value": 19.06,
+    "sensor": "External Air Temperature"
+  },
+  {
+    "Id": 13595863,
+    "captureDate": "2018-10-10T13:19:25.823",
+    "value": 72.00,
+    "sensor": "External Air Humidity"
+  },
+  {
+    "Id": 13595525,
+    "captureDate": "2018-10-10T13:09:25.803",
+    "value": 63.00,
+    "sensor": "External Air Humidity"
+  },
+  {
+    "Id": 13595523,
+    "captureDate": "2018-10-10T13:09:25.803",
+    "value": 20.06,
+    "sensor": "External Air Temperature"
+  },
+  {
+    "Id": 13595521,
+    "captureDate": "2018-10-10T13:09:25.803",
+    "value": 47.00,
+    "sensor": "Air Humidity Sensor"
+  },
+  {
+    "Id": 13595520,
+    "captureDate": "2018-10-10T13:09:25.803",
+    "value": 24.00,
+    "sensor": "Air Temperature Sensor"
+  },
+  {
+    "Id": 13595519,
+    "captureDate": "2018-10-10T13:09:25.803",
+    "value": 22.80,
+    "sensor": "Water Temperature Sensor"
+  },
+  {
+    "Id": 13595518,
+    "captureDate": "2018-10-10T13:09:25.803",
+    "value": 8.30,
+    "sensor": "pH Sensor"
+  },
+  {
+    "Id": 13595186,
+    "captureDate": "2018-10-10T12:59:25.863",
+    "value": 8.30,
+    "sensor": "pH Sensor"
+  },
+  {
+    "Id": 13595187,
+    "captureDate": "2018-10-10T12:59:25.863",
+    "value": 22.80,
+    "sensor": "Water Temperature Sensor"
+  },
+  {
+    "Id": 13595188,
+    "captureDate": "2018-10-10T12:59:25.863",
+    "value": 23.80,
+    "sensor": "Air Temperature Sensor"
+  },
+  {
+    "Id": 13595189,
+    "captureDate": "2018-10-10T12:59:25.863",
+    "value": 48.40,
+    "sensor": "Air Humidity Sensor"
+  },
+  {
+    "Id": 13595201,
+    "captureDate": "2018-10-10T12:59:25.863",
+    "value": 20.06,
+    "sensor": "External Air Temperature"
+  },
+  {
+    "Id": 13595204,
+    "captureDate": "2018-10-10T12:59:25.863",
+    "value": 63.00,
+    "sensor": "External Air Humidity"
+  },
+  {
+    "Id": 13594869,
+    "captureDate": "2018-10-10T12:49:25.923",
+    "value": 56.00,
+    "sensor": "External Air Humidity"
+  },
+  {
+    "Id": 13594868,
+    "captureDate": "2018-10-10T12:49:25.923",
+    "value": 20.37,
+    "sensor": "External Air Temperature"
+  },
+  {
+    "Id": 13594867,
+    "captureDate": "2018-10-10T12:49:25.923",
+    "value": 44.90,
+    "sensor": "Air Humidity Sensor"
+  },
+  {
+    "Id": 13594866,
+    "captureDate": "2018-10-10T12:49:25.923",
+    "value": 24.30,
+    "sensor": "Air Temperature Sensor"
+  },
+  {
+    "Id": 13594865,
+    "captureDate": "2018-10-10T12:49:25.923",
+    "value": 22.80,
+    "sensor": "Water Temperature Sensor"
+  },
+  {
+    "Id": 13594864,
+    "captureDate": "2018-10-10T12:49:25.923",
+    "value": 8.30,
+    "sensor": "pH Sensor"
+  },
+  {
+    "Id": 13594548,
+    "captureDate": "2018-10-10T12:39:25.847",
+    "value": 8.30,
+    "sensor": "pH Sensor"
+  },
+  {
+    "Id": 13594549,
+    "captureDate": "2018-10-10T12:39:25.847",
+    "value": 22.80,
+    "sensor": "Water Temperature Sensor"
+  },
+  {
+    "Id": 13594550,
+    "captureDate": "2018-10-10T12:39:25.847",
+    "value": 24.20,
+    "sensor": "Air Temperature Sensor"
+  },
+  {
+    "Id": 13594551,
+    "captureDate": "2018-10-10T12:39:25.847",
+    "value": 44.60,
+    "sensor": "Air Humidity Sensor"
+  },
+  {
+    "Id": 13594552,
+    "captureDate": "2018-10-10T12:39:25.847",
+    "value": 20.37,
+    "sensor": "External Air Temperature"
+  },
+  {
+    "Id": 13594553,
+    "captureDate": "2018-10-10T12:39:25.847",
+    "value": 56.00,
+    "sensor": "External Air Humidity"
+  },
+  {
+    "Id": 13594231,
+    "captureDate": "2018-10-10T12:29:25.917",
+    "value": 63.00,
+    "sensor": "External Air Humidity"
+  },
+  {
+    "Id": 13594230,
+    "captureDate": "2018-10-10T12:29:25.917",
+    "value": 20.03,
+    "sensor": "External Air Temperature"
+  },
+  {
+    "Id": 13594229,
+    "captureDate": "2018-10-10T12:29:25.917",
+    "value": 43.60,
+    "sensor": "Air Humidity Sensor"
+  },
+  {
+    "Id": 13594228,
+    "captureDate": "2018-10-10T12:29:25.917",
+    "value": 24.60,
+    "sensor": "Air Temperature Sensor"
+  },
+  {
+    "Id": 13594227,
+    "captureDate": "2018-10-10T12:29:25.917",
+    "value": 22.80,
+    "sensor": "Water Temperature Sensor"
+  },
+  {
+    "Id": 13594226,
+    "captureDate": "2018-10-10T12:29:25.917",
+    "value": 8.30,
+    "sensor": "pH Sensor"
+  },
+  {
+    "Id": 13593916,
+    "captureDate": "2018-10-10T12:19:25.823",
+    "value": 8.30,
+    "sensor": "pH Sensor"
+  },
+  {
+    "Id": 13593917,
+    "captureDate": "2018-10-10T12:19:25.823",
+    "value": 22.80,
+    "sensor": "Water Temperature Sensor"
+  },
+  {
+    "Id": 13593918,
+    "captureDate": "2018-10-10T12:19:25.823",
+    "value": 24.60,
+    "sensor": "Air Temperature Sensor"
+  },
+  {
+    "Id": 13593919,
+    "captureDate": "2018-10-10T12:19:25.823",
+    "value": 42.80,
+    "sensor": "Air Humidity Sensor"
+  },
+  {
+    "Id": 13593920,
+    "captureDate": "2018-10-10T12:19:25.823",
+    "value": 20.51,
+    "sensor": "External Air Temperature"
+  },
+  {
+    "Id": 13593921,
+    "captureDate": "2018-10-10T12:19:25.823",
+    "value": 60.00,
+    "sensor": "External Air Humidity"
+  },
+  {
+    "Id": 13593594,
+    "captureDate": "2018-10-10T12:09:25.863",
+    "value": 60.00,
+    "sensor": "External Air Humidity"
+  },
+  {
+    "Id": 13593593,
+    "captureDate": "2018-10-10T12:09:25.863",
+    "value": 20.51,
+    "sensor": "External Air Temperature"
+  },
+  {
+    "Id": 13593592,
+    "captureDate": "2018-10-10T12:09:25.863",
+    "value": 40.20,
+    "sensor": "Air Humidity Sensor"
+  },
+  {
+    "Id": 13593591,
+    "captureDate": "2018-10-10T12:09:25.863",
+    "value": 25.90,
+    "sensor": "Air Temperature Sensor"
+  },
+  {
+    "Id": 13593590,
+    "captureDate": "2018-10-10T12:09:25.863",
+    "value": 22.70,
+    "sensor": "Water Temperature Sensor"
+  },
+  {
+    "Id": 13593589,
+    "captureDate": "2018-10-10T12:09:25.863",
+    "value": 8.30,
+    "sensor": "pH Sensor"
+  },
+  {
+    "Id": 13593265,
+    "captureDate": "2018-10-10T11:59:25.867",
+    "value": 8.40,
+    "sensor": "pH Sensor"
+  },
+  {
+    "Id": 13593266,
+    "captureDate": "2018-10-10T11:59:25.867",
+    "value": 22.70,
+    "sensor": "Water Temperature Sensor"
+  },
+  {
+    "Id": 13593267,
+    "captureDate": "2018-10-10T11:59:25.867",
+    "value": 26.90,
+    "sensor": "Air Temperature Sensor"
+  },
+  {
+    "Id": 13593268,
+    "captureDate": "2018-10-10T11:59:25.867",
+    "value": 38.40,
+    "sensor": "Air Humidity Sensor"
+  },
+  {
+    "Id": 13593269,
+    "captureDate": "2018-10-10T11:59:25.867",
+    "value": 20.51,
+    "sensor": "External Air Temperature"
+  },
+  {
+    "Id": 13593270,
+    "captureDate": "2018-10-10T11:59:25.867",
+    "value": 60.00,
+    "sensor": "External Air Humidity"
+  },
+  {
+    "Id": 13592948,
+    "captureDate": "2018-10-10T11:49:25.91",
+    "value": 60.00,
+    "sensor": "External Air Humidity"
+  },
+  {
+    "Id": 13592947,
+    "captureDate": "2018-10-10T11:49:25.91",
+    "value": 20.51,
+    "sensor": "External Air Temperature"
+  },
+  {
+    "Id": 13592946,
+    "captureDate": "2018-10-10T11:49:25.91",
+    "value": 35.90,
+    "sensor": "Air Humidity Sensor"
+  },
+  {
+    "Id": 13592945,
+    "captureDate": "2018-10-10T11:49:25.91",
+    "value": 28.20,
+    "sensor": "Air Temperature Sensor"
+  },
+  {
+    "Id": 13592944,
+    "captureDate": "2018-10-10T11:49:25.91",
+    "value": 22.60,
+    "sensor": "Water Temperature Sensor"
+  },
+  {
+    "Id": 13592943,
+    "captureDate": "2018-10-10T11:49:25.91",
+    "value": 8.40,
+    "sensor": "pH Sensor"
+  },
+  {
+    "Id": 13592614,
+    "captureDate": "2018-10-10T11:39:25.877",
+    "value": 8.40,
+    "sensor": "pH Sensor"
+  },
+  {
+    "Id": 13592615,
+    "captureDate": "2018-10-10T11:39:25.877",
+    "value": 22.60,
+    "sensor": "Water Temperature Sensor"
+  },
+  {
+    "Id": 13592616,
+    "captureDate": "2018-10-10T11:39:25.877",
+    "value": 32.70,
+    "sensor": "Air Temperature Sensor"
+  },
+  {
+    "Id": 13592617,
+    "captureDate": "2018-10-10T11:39:25.877",
+    "value": 29.00,
+    "sensor": "Air Humidity Sensor"
+  },
+  {
+    "Id": 13592618,
+    "captureDate": "2018-10-10T11:39:25.877",
+    "value": 20.51,
+    "sensor": "External Air Temperature"
+  },
+  {
+    "Id": 13592619,
+    "captureDate": "2018-10-10T11:39:25.877",
+    "value": 64.00,
+    "sensor": "External Air Humidity"
+  },
+  {
+    "Id": 13592282,
+    "captureDate": "2018-10-10T11:29:25.8",
+    "value": 64.00,
+    "sensor": "External Air Humidity"
+  },
+  {
+    "Id": 13592281,
+    "captureDate": "2018-10-10T11:29:25.8",
+    "value": 20.51,
+    "sensor": "External Air Temperature"
+  },
+  {
+    "Id": 13592279,
+    "captureDate": "2018-10-10T11:29:25.8",
+    "value": 30.20,
+    "sensor": "Air Humidity Sensor"
+  },
+  {
+    "Id": 13592278,
+    "captureDate": "2018-10-10T11:29:25.8",
+    "value": 31.30,
+    "sensor": "Air Temperature Sensor"
+  },
+  {
+    "Id": 13592277,
+    "captureDate": "2018-10-10T11:29:25.8",
+    "value": 22.30,
+    "sensor": "Water Temperature Sensor"
+  },
+  {
+    "Id": 13592276,
+    "captureDate": "2018-10-10T11:29:25.8",
+    "value": 8.30,
+    "sensor": "pH Sensor"
+  },
+  {
+    "Id": 13591948,
+    "captureDate": "2018-10-10T11:19:25.913",
+    "value": 8.30,
+    "sensor": "pH Sensor"
+  },
+  {
+    "Id": 13591949,
+    "captureDate": "2018-10-10T11:19:25.913",
+    "value": 22.10,
+    "sensor": "Water Temperature Sensor"
+  },
+  {
+    "Id": 13591950,
+    "captureDate": "2018-10-10T11:19:25.913",
+    "value": 30.50,
+    "sensor": "Air Temperature Sensor"
+  },
+  {
+    "Id": 13591951,
+    "captureDate": "2018-10-10T11:19:25.913",
+    "value": 32.80,
+    "sensor": "Air Humidity Sensor"
+  },
+  {
+    "Id": 13591952,
+    "captureDate": "2018-10-10T11:19:25.913",
+    "value": 20.51,
+    "sensor": "External Air Temperature"
+  },
+  {
+    "Id": 13591953,
+    "captureDate": "2018-10-10T11:19:25.913",
+    "value": 64.00,
+    "sensor": "External Air Humidity"
+  },
+  {
+    "Id": 13591621,
+    "captureDate": "2018-10-10T11:09:25.907",
+    "value": 64.00,
+    "sensor": "External Air Humidity"
+  },
+  {
+    "Id": 13591620,
+    "captureDate": "2018-10-10T11:09:25.907",
+    "value": 20.51,
+    "sensor": "External Air Temperature"
+  },
+  {
+    "Id": 13591619,
+    "captureDate": "2018-10-10T11:09:25.907",
+    "value": 28.60,
+    "sensor": "Air Humidity Sensor"
+  },
+  {
+    "Id": 13591618,
+    "captureDate": "2018-10-10T11:09:25.907",
+    "value": 32.30,
+    "sensor": "Air Temperature Sensor"
+  },
+  {
+    "Id": 13591617,
+    "captureDate": "2018-10-10T11:09:25.907",
+    "value": 22.10,
+    "sensor": "Water Temperature Sensor"
+  },
+  {
+    "Id": 13591616,
+    "captureDate": "2018-10-10T11:09:25.907",
+    "value": 8.30,
+    "sensor": "pH Sensor"
+  },
+  {
+    "Id": 13591284,
+    "captureDate": "2018-10-10T10:59:25.89",
+    "value": 8.30,
+    "sensor": "pH Sensor"
+  },
+  {
+    "Id": 13591285,
+    "captureDate": "2018-10-10T10:59:25.89",
+    "value": 21.80,
+    "sensor": "Water Temperature Sensor"
+  },
+  {
+    "Id": 13591286,
+    "captureDate": "2018-10-10T10:59:25.89",
+    "value": 33.30,
+    "sensor": "Air Temperature Sensor"
+  },
+  {
+    "Id": 13591288,
+    "captureDate": "2018-10-10T10:59:25.89",
+    "value": 27.20,
+    "sensor": "Air Humidity Sensor"
+  },
+  {
+    "Id": 13591292,
+    "captureDate": "2018-10-10T10:59:25.89",
+    "value": 19.03,
+    "sensor": "External Air Temperature"
+  },
+  {
+    "Id": 13591293,
+    "captureDate": "2018-10-10T10:59:25.89",
+    "value": 68.00,
+    "sensor": "External Air Humidity"
+  },
+  {
+    "Id": 13590961,
+    "captureDate": "2018-10-10T10:49:25.823",
+    "value": 68.00,
+    "sensor": "External Air Humidity"
+  },
+  {
+    "Id": 13590960,
+    "captureDate": "2018-10-10T10:49:25.823",
+    "value": 19.02,
+    "sensor": "External Air Temperature"
+  },
+  {
+    "Id": 13590959,
+    "captureDate": "2018-10-10T10:49:25.823",
+    "value": 29.30,
+    "sensor": "Air Humidity Sensor"
+  },
+  {
+    "Id": 13590958,
+    "captureDate": "2018-10-10T10:49:25.823",
+    "value": 32.30,
+    "sensor": "Air Temperature Sensor"
+  },
+  {
+    "Id": 13590957,
+    "captureDate": "2018-10-10T10:49:25.823",
+    "value": 21.50,
+    "sensor": "Water Temperature Sensor"
+  },
+  {
+    "Id": 13590956,
+    "captureDate": "2018-10-10T10:49:25.823",
+    "value": 8.30,
+    "sensor": "pH Sensor"
+  },
+  {
+    "Id": 13590622,
+    "captureDate": "2018-10-10T10:39:25.913",
+    "value": 8.20,
+    "sensor": "pH Sensor"
+  },
+  {
+    "Id": 13590623,
+    "captureDate": "2018-10-10T10:39:25.913",
+    "value": 21.20,
+    "sensor": "Water Temperature Sensor"
+  },
+  {
+    "Id": 13590624,
+    "captureDate": "2018-10-10T10:39:25.913",
+    "value": 29.50,
+    "sensor": "Air Temperature Sensor"
+  },
+  {
+    "Id": 13590625,
+    "captureDate": "2018-10-10T10:39:25.913",
+    "value": 40.40,
+    "sensor": "Air Humidity Sensor"
+  },
+  {
+    "Id": 13590626,
+    "captureDate": "2018-10-10T10:39:25.913",
+    "value": 19.02,
+    "sensor": "External Air Temperature"
+  },
+  {
+    "Id": 13590627,
+    "captureDate": "2018-10-10T10:39:25.913",
+    "value": 68.00,
+    "sensor": "External Air Humidity"
+  },
+  {
+    "Id": 13590293,
+    "captureDate": "2018-10-10T10:29:25.863",
+    "value": 77.00,
+    "sensor": "External Air Humidity"
+  },
+  {
+    "Id": 13590292,
+    "captureDate": "2018-10-10T10:29:25.863",
+    "value": 18.03,
+    "sensor": "External Air Temperature"
+  },
+  {
+    "Id": 13590291,
+    "captureDate": "2018-10-10T10:29:25.863",
+    "value": 40.70,
+    "sensor": "Air Humidity Sensor"
+  },
+  {
+    "Id": 13590290,
+    "captureDate": "2018-10-10T10:29:25.863",
+    "value": 28.90,
+    "sensor": "Air Temperature Sensor"
+  },
+  {
+    "Id": 13590289,
+    "captureDate": "2018-10-10T10:29:25.863",
+    "value": 20.90,
+    "sensor": "Water Temperature Sensor"
+  },
+  {
+    "Id": 13590288,
+    "captureDate": "2018-10-10T10:29:25.863",
+    "value": 8.20,
+    "sensor": "pH Sensor"
+  },
+  {
+    "Id": 13589972,
+    "captureDate": "2018-10-10T10:19:25.893",
+    "value": 8.20,
+    "sensor": "pH Sensor"
+  },
+  {
+    "Id": 13589973,
+    "captureDate": "2018-10-10T10:19:25.893",
+    "value": 20.70,
+    "sensor": "Water Temperature Sensor"
+  },
+  {
+    "Id": 13589974,
+    "captureDate": "2018-10-10T10:19:25.893",
+    "value": 26.60,
+    "sensor": "Air Temperature Sensor"
+  },
+  {
+    "Id": 13589975,
+    "captureDate": "2018-10-10T10:19:25.893",
+    "value": 44.20,
+    "sensor": "Air Humidity Sensor"
+  },
+  {
+    "Id": 13589976,
+    "captureDate": "2018-10-10T10:19:25.893",
+    "value": 18.02,
+    "sensor": "External Air Temperature"
+  },
+  {
+    "Id": 13589977,
+    "captureDate": "2018-10-10T10:19:25.893",
+    "value": 77.00,
+    "sensor": "External Air Humidity"
+  },
+  {
+    "Id": 13589661,
+    "captureDate": "2018-10-10T10:09:25.973",
+    "value": 77.00,
+    "sensor": "External Air Humidity"
+  },
+  {
+    "Id": 13589660,
+    "captureDate": "2018-10-10T10:09:25.973",
+    "value": 18.02,
+    "sensor": "External Air Temperature"
+  },
+  {
+    "Id": 13589653,
+    "captureDate": "2018-10-10T10:09:25.973",
+    "value": 42.50,
+    "sensor": "Air Humidity Sensor"
+  },
+  {
+    "Id": 13589652,
+    "captureDate": "2018-10-10T10:09:25.973",
+    "value": 26.30,
+    "sensor": "Air Temperature Sensor"
+  },
+  {
+    "Id": 13589651,
+    "captureDate": "2018-10-10T10:09:25.973",
+    "value": 20.70,
+    "sensor": "Water Temperature Sensor"
+  },
+  {
+    "Id": 13589650,
+    "captureDate": "2018-10-10T10:09:25.973",
+    "value": 8.20,
+    "sensor": "pH Sensor"
+  },
+  {
+    "Id": 13589345,
+    "captureDate": "2018-10-10T09:59:26.083",
+    "value": 8.20,
+    "sensor": "pH Sensor"
+  },
+  {
+    "Id": 13589346,
+    "captureDate": "2018-10-10T09:59:26.083",
+    "value": 20.60,
+    "sensor": "Water Temperature Sensor"
+  },
+  {
+    "Id": 13589347,
+    "captureDate": "2018-10-10T09:59:26.083",
+    "value": 28.40,
+    "sensor": "Air Temperature Sensor"
+  },
+  {
+    "Id": 13589348,
+    "captureDate": "2018-10-10T09:59:26.083",
+    "value": 39.30,
+    "sensor": "Air Humidity Sensor"
+  },
+  {
+    "Id": 13589349,
+    "captureDate": "2018-10-10T09:59:26.083",
+    "value": 17.02,
+    "sensor": "External Air Temperature"
+  },
+  {
+    "Id": 13589350,
+    "captureDate": "2018-10-10T09:59:26.083",
+    "value": 77.00,
+    "sensor": "External Air Humidity"
+  },
+  {
+    "Id": 13589028,
+    "captureDate": "2018-10-10T09:49:26.663",
+    "value": 77.00,
+    "sensor": "External Air Humidity"
+  },
+  {
+    "Id": 13589027,
+    "captureDate": "2018-10-10T09:49:26.663",
+    "value": 17.02,
+    "sensor": "External Air Temperature"
+  },
+  {
+    "Id": 13589026,
+    "captureDate": "2018-10-10T09:49:26.663",
+    "value": 41.60,
+    "sensor": "Air Humidity Sensor"
+  },
+  {
+    "Id": 13589025,
+    "captureDate": "2018-10-10T09:49:26.663",
+    "value": 27.30,
+    "sensor": "Air Temperature Sensor"
+  },
+  {
+    "Id": 13589024,
+    "captureDate": "2018-10-10T09:49:26.663",
+    "value": 20.40,
+    "sensor": "Water Temperature Sensor"
+  },
+  {
+    "Id": 13589023,
+    "captureDate": "2018-10-10T09:49:26.663",
+    "value": 8.20,
+    "sensor": "pH Sensor"
+  },
+  {
+    "Id": 13588701,
+    "captureDate": "2018-10-10T09:39:26.013",
+    "value": 8.20,
+    "sensor": "pH Sensor"
+  },
+  {
+    "Id": 13588702,
+    "captureDate": "2018-10-10T09:39:26.013",
+    "value": 20.10,
+    "sensor": "Water Temperature Sensor"
+  },
+  {
+    "Id": 13588703,
+    "captureDate": "2018-10-10T09:39:26.013",
+    "value": 25.40,
+    "sensor": "Air Temperature Sensor"
+  },
+  {
+    "Id": 13588704,
+    "captureDate": "2018-10-10T09:39:26.013",
+    "value": 44.00,
+    "sensor": "Air Humidity Sensor"
+  },
+  {
+    "Id": 13588705,
+    "captureDate": "2018-10-10T09:39:26.013",
+    "value": 17.02,
+    "sensor": "External Air Temperature"
+  },
+  {
+    "Id": 13588706,
+    "captureDate": "2018-10-10T09:39:26.013",
+    "value": 77.00,
+    "sensor": "External Air Humidity"
+  },
+  {
+    "Id": 13588390,
+    "captureDate": "2018-10-10T09:29:25.83",
+    "value": 77.00,
+    "sensor": "External Air Humidity"
+  },
+  {
+    "Id": 13588389,
+    "captureDate": "2018-10-10T09:29:25.83",
+    "value": 16.51,
+    "sensor": "External Air Temperature"
+  },
+  {
+    "Id": 13588388,
+    "captureDate": "2018-10-10T09:29:25.83",
+    "value": 44.80,
+    "sensor": "Air Humidity Sensor"
+  },
+  {
+    "Id": 13588387,
+    "captureDate": "2018-10-10T09:29:25.83",
+    "value": 25.90,
+    "sensor": "Air Temperature Sensor"
+  },
+  {
+    "Id": 13588386,
+    "captureDate": "2018-10-10T09:29:25.83",
+    "value": 20.00,
+    "sensor": "Water Temperature Sensor"
+  },
+  {
+    "Id": 13588385,
+    "captureDate": "2018-10-10T09:29:25.83",
+    "value": 8.20,
+    "sensor": "pH Sensor"
+  },
+  {
+    "Id": 13588069,
+    "captureDate": "2018-10-10T09:19:25.88",
+    "value": 8.10,
+    "sensor": "pH Sensor"
+  },
+  {
+    "Id": 13588070,
+    "captureDate": "2018-10-10T09:19:25.88",
+    "value": 19.70,
+    "sensor": "Water Temperature Sensor"
+  },
+  {
+    "Id": 13588071,
+    "captureDate": "2018-10-10T09:19:25.88",
+    "value": 25.50,
+    "sensor": "Air Temperature Sensor"
+  },
+  {
+    "Id": 13588072,
+    "captureDate": "2018-10-10T09:19:25.88",
+    "value": 45.50,
+    "sensor": "Air Humidity Sensor"
+  },
+  {
+    "Id": 13588073,
+    "captureDate": "2018-10-10T09:19:25.88",
+    "value": 16.51,
+    "sensor": "External Air Temperature"
+  },
+  {
+    "Id": 13588074,
+    "captureDate": "2018-10-10T09:19:25.88",
+    "value": 77.00,
+    "sensor": "External Air Humidity"
+  },
+  {
+    "Id": 13587778,
+    "captureDate": "2018-10-10T09:09:25.83",
+    "value": 72.00,
+    "sensor": "External Air Humidity"
+  },
+  {
+    "Id": 13587777,
+    "captureDate": "2018-10-10T09:09:25.83",
+    "value": 15.95,
+    "sensor": "External Air Temperature"
+  },
+  {
+    "Id": 13587776,
+    "captureDate": "2018-10-10T09:09:25.83",
+    "value": 47.80,
+    "sensor": "Air Humidity Sensor"
+  },
+  {
+    "Id": 13587775,
+    "captureDate": "2018-10-10T09:09:25.83",
+    "value": 25.30,
+    "sensor": "Air Temperature Sensor"
+  },
+  {
+    "Id": 13587774,
+    "captureDate": "2018-10-10T09:09:25.83",
+    "value": 19.50,
+    "sensor": "Water Temperature Sensor"
+  },
+  {
+    "Id": 13587773,
+    "captureDate": "2018-10-10T09:09:25.83",
+    "value": 8.10,
+    "sensor": "pH Sensor"
+  },
+  {
+    "Id": 13587451,
+    "captureDate": "2018-10-10T08:59:25.987",
+    "value": 8.10,
+    "sensor": "pH Sensor"
+  },
+  {
+    "Id": 13587452,
+    "captureDate": "2018-10-10T08:59:25.987",
+    "value": 19.30,
+    "sensor": "Water Temperature Sensor"
+  },
+  {
+    "Id": 13587453,
+    "captureDate": "2018-10-10T08:59:25.987",
+    "value": 24.40,
+    "sensor": "Air Temperature Sensor"
+  },
+  {
+    "Id": 13587454,
+    "captureDate": "2018-10-10T08:59:25.987",
+    "value": 48.60,
+    "sensor": "Air Humidity Sensor"
+  },
+  {
+    "Id": 13587455,
+    "captureDate": "2018-10-10T08:59:25.987",
+    "value": 15.95,
+    "sensor": "External Air Temperature"
+  },
+  {
+    "Id": 13587456,
+    "captureDate": "2018-10-10T08:59:25.987",
+    "value": 72.00,
+    "sensor": "External Air Humidity"
+  },
+  {
+    "Id": 13587140,
+    "captureDate": "2018-10-10T08:49:25.8",
+    "value": 72.00,
+    "sensor": "External Air Humidity"
+  },
+  {
+    "Id": 13587139,
+    "captureDate": "2018-10-10T08:49:25.8",
+    "value": 15.96,
+    "sensor": "External Air Temperature"
+  },
+  {
+    "Id": 13587138,
+    "captureDate": "2018-10-10T08:49:25.8",
+    "value": 50.60,
+    "sensor": "Air Humidity Sensor"
+  },
+  {
+    "Id": 13587137,
+    "captureDate": "2018-10-10T08:49:25.8",
+    "value": 23.60,
+    "sensor": "Air Temperature Sensor"
+  },
+  {
+    "Id": 13587136,
+    "captureDate": "2018-10-10T08:49:25.8",
+    "value": 19.00,
+    "sensor": "Water Temperature Sensor"
+  },
+  {
+    "Id": 13587135,
+    "captureDate": "2018-10-10T08:49:25.8",
+    "value": 8.00,
+    "sensor": "pH Sensor"
+  },
+  {
+    "Id": 13586807,
+    "captureDate": "2018-10-10T08:39:26.053",
+    "value": 8.00,
+    "sensor": "pH Sensor"
+  },
+  {
+    "Id": 13586808,
+    "captureDate": "2018-10-10T08:39:26.053",
+    "value": 18.60,
+    "sensor": "Water Temperature Sensor"
+  },
+  {
+    "Id": 13586809,
+    "captureDate": "2018-10-10T08:39:26.053",
+    "value": 23.10,
+    "sensor": "Air Temperature Sensor"
+  },
+  {
+    "Id": 13586810,
+    "captureDate": "2018-10-10T08:39:26.053",
+    "value": 52.60,
+    "sensor": "Air Humidity Sensor"
+  },
+  {
+    "Id": 13586811,
+    "captureDate": "2018-10-10T08:39:26.053",
+    "value": 15.96,
+    "sensor": "External Air Temperature"
+  },
+  {
+    "Id": 13586812,
+    "captureDate": "2018-10-10T08:39:26.053",
+    "value": 72.00,
+    "sensor": "External Air Humidity"
+  },
+  {
+    "Id": 13586508,
+    "captureDate": "2018-10-10T08:29:25.847",
+    "value": 82.00,
+    "sensor": "External Air Humidity"
+  },
+  {
+    "Id": 13586507,
+    "captureDate": "2018-10-10T08:29:25.847",
+    "value": 13.95,
+    "sensor": "External Air Temperature"
+  },
+  {
+    "Id": 13586506,
+    "captureDate": "2018-10-10T08:29:25.847",
+    "value": 56.20,
+    "sensor": "Air Humidity Sensor"
+  },
+  {
+    "Id": 13586505,
+    "captureDate": "2018-10-10T08:29:25.847",
+    "value": 21.60,
+    "sensor": "Air Temperature Sensor"
+  },
+  {
+    "Id": 13586504,
+    "captureDate": "2018-10-10T08:29:25.847",
+    "value": 18.60,
+    "sensor": "Water Temperature Sensor"
+  },
+  {
+    "Id": 13586503,
+    "captureDate": "2018-10-10T08:29:25.847",
+    "value": 7.90,
+    "sensor": "pH Sensor"
+  },
+  {
+    "Id": 13586181,
+    "captureDate": "2018-10-10T08:19:26.093",
+    "value": 7.90,
+    "sensor": "pH Sensor"
+  },
+  {
+    "Id": 13586182,
+    "captureDate": "2018-10-10T08:19:26.093",
+    "value": 18.40,
+    "sensor": "Water Temperature Sensor"
+  },
+  {
+    "Id": 13586183,
+    "captureDate": "2018-10-10T08:19:26.093",
+    "value": 21.00,
+    "sensor": "Air Temperature Sensor"
+  },
+  {
+    "Id": 13586184,
+    "captureDate": "2018-10-10T08:19:26.093",
+    "value": 59.50,
+    "sensor": "Air Humidity Sensor"
+  },
+  {
+    "Id": 13586185,
+    "captureDate": "2018-10-10T08:19:26.093",
+    "value": 13.96,
+    "sensor": "External Air Temperature"
+  },
+  {
+    "Id": 13586186,
+    "captureDate": "2018-10-10T08:19:26.093",
+    "value": 82.00,
+    "sensor": "External Air Humidity"
+  },
+  {
+    "Id": 13585872,
+    "captureDate": "2018-10-10T08:09:26.627",
+    "value": 82.00,
+    "sensor": "External Air Humidity"
+  },
+  {
+    "Id": 13585871,
+    "captureDate": "2018-10-10T08:09:26.627",
+    "value": 13.96,
+    "sensor": "External Air Temperature"
+  },
+  {
+    "Id": 13585870,
+    "captureDate": "2018-10-10T08:09:26.627",
+    "value": 59.90,
+    "sensor": "Air Humidity Sensor"
+  },
+  {
+    "Id": 13585869,
+    "captureDate": "2018-10-10T08:09:26.627",
+    "value": 20.40,
+    "sensor": "Air Temperature Sensor"
+  },
+  {
+    "Id": 13585868,
+    "captureDate": "2018-10-10T08:09:26.627",
+    "value": 18.20,
+    "sensor": "Water Temperature Sensor"
+  },
+  {
+    "Id": 13585867,
+    "captureDate": "2018-10-10T08:09:26.627",
+    "value": 7.90,
+    "sensor": "pH Sensor"
+  },
+  {
+    "Id": 13585551,
+    "captureDate": "2018-10-10T07:59:25.79",
+    "value": 7.80,
+    "sensor": "pH Sensor"
+  },
+  {
+    "Id": 13585552,
+    "captureDate": "2018-10-10T07:59:25.79",
+    "value": 18.00,
+    "sensor": "Water Temperature Sensor"
+  },
+  {
+    "Id": 13585553,
+    "captureDate": "2018-10-10T07:59:25.79",
+    "value": 19.20,
+    "sensor": "Air Temperature Sensor"
+  },
+  {
+    "Id": 13585554,
+    "captureDate": "2018-10-10T07:59:25.79",
+    "value": 63.50,
+    "sensor": "Air Humidity Sensor"
+  },
+  {
+    "Id": 13585555,
+    "captureDate": "2018-10-10T07:59:25.79",
+    "value": 12.47,
+    "sensor": "External Air Temperature"
+  },
+  {
+    "Id": 13585556,
+    "captureDate": "2018-10-10T07:59:25.79",
+    "value": 93.00,
+    "sensor": "External Air Humidity"
+  },
+  {
+    "Id": 13585240,
+    "captureDate": "2018-10-10T07:49:26.213",
+    "value": 93.00,
+    "sensor": "External Air Humidity"
+  },
+  {
+    "Id": 13585239,
+    "captureDate": "2018-10-10T07:49:26.213",
+    "value": 12.47,
+    "sensor": "External Air Temperature"
+  },
+  {
+    "Id": 13585238,
+    "captureDate": "2018-10-10T07:49:26.213",
+    "value": 69.30,
+    "sensor": "Air Humidity Sensor"
+  },
+  {
+    "Id": 13585237,
+    "captureDate": "2018-10-10T07:49:26.213",
+    "value": 17.70,
+    "sensor": "Air Temperature Sensor"
+  },
+  {
+    "Id": 13585236,
+    "captureDate": "2018-10-10T07:49:26.213",
+    "value": 17.90,
+    "sensor": "Water Temperature Sensor"
+  },
+  {
+    "Id": 13585235,
+    "captureDate": "2018-10-10T07:49:26.213",
+    "value": 7.80,
+    "sensor": "pH Sensor"
+  },
+  {
+    "Id": 13584931,
+    "captureDate": "2018-10-10T07:39:26.04",
+    "value": 7.80,
+    "sensor": "pH Sensor"
+  },
+  {
+    "Id": 13584932,
+    "captureDate": "2018-10-10T07:39:26.04",
+    "value": 17.70,
+    "sensor": "Water Temperature Sensor"
+  },
+  {
+    "Id": 13584933,
+    "captureDate": "2018-10-10T07:39:26.04",
+    "value": 16.50,
+    "sensor": "Air Temperature Sensor"
+  },
+  {
+    "Id": 13584934,
+    "captureDate": "2018-10-10T07:39:26.04",
+    "value": 73.10,
+    "sensor": "Air Humidity Sensor"
+  },
+  {
+    "Id": 13584935,
+    "captureDate": "2018-10-10T07:39:26.04",
+    "value": 12.47,
+    "sensor": "External Air Temperature"
+  },
+  {
+    "Id": 13584936,
+    "captureDate": "2018-10-10T07:39:26.04",
+    "value": 93.00,
+    "sensor": "External Air Humidity"
+  },
+  {
+    "Id": 13584622,
+    "captureDate": "2018-10-10T07:29:25.9",
+    "value": 100.00,
+    "sensor": "External Air Humidity"
+  },
+  {
+    "Id": 13584621,
+    "captureDate": "2018-10-10T07:29:25.9",
+    "value": 10.47,
+    "sensor": "External Air Temperature"
+  },
+  {
+    "Id": 13584620,
+    "captureDate": "2018-10-10T07:29:25.9",
+    "value": 75.70,
+    "sensor": "Air Humidity Sensor"
+  },
+  {
+    "Id": 13584619,
+    "captureDate": "2018-10-10T07:29:25.9",
+    "value": 15.90,
+    "sensor": "Air Temperature Sensor"
+  },
+  {
+    "Id": 13584618,
+    "captureDate": "2018-10-10T07:29:25.9",
+    "value": 17.70,
+    "sensor": "Water Temperature Sensor"
+  },
+  {
+    "Id": 13584617,
+    "captureDate": "2018-10-10T07:29:25.9",
+    "value": 7.70,
+    "sensor": "pH Sensor"
+  },
+  {
+    "Id": 13584313,
+    "captureDate": "2018-10-10T07:19:25.907",
+    "value": 7.70,
+    "sensor": "pH Sensor"
+  },
+  {
+    "Id": 13584314,
+    "captureDate": "2018-10-10T07:19:25.907",
+    "value": 17.70,
+    "sensor": "Water Temperature Sensor"
+  },
+  {
+    "Id": 13584315,
+    "captureDate": "2018-10-10T07:19:25.907",
+    "value": 15.40,
+    "sensor": "Air Temperature Sensor"
+  },
+  {
+    "Id": 13584316,
+    "captureDate": "2018-10-10T07:19:25.907",
+    "value": 77.70,
+    "sensor": "Air Humidity Sensor"
+  },
+  {
+    "Id": 13584317,
+    "captureDate": "2018-10-10T07:19:25.907",
+    "value": 10.47,
+    "sensor": "External Air Temperature"
+  },
+  {
+    "Id": 13584318,
+    "captureDate": "2018-10-10T07:19:25.907",
+    "value": 100.00,
+    "sensor": "External Air Humidity"
+  },
+  {
+    "Id": 13583998,
+    "captureDate": "2018-10-10T07:09:25.863",
+    "value": 100.00,
+    "sensor": "External Air Humidity"
+  },
+  {
+    "Id": 13583997,
+    "captureDate": "2018-10-10T07:09:25.863",
+    "value": 10.47,
+    "sensor": "External Air Temperature"
+  },
+  {
+    "Id": 13583996,
+    "captureDate": "2018-10-10T07:09:25.863",
+    "value": 79.30,
+    "sensor": "Air Humidity Sensor"
+  },
+  {
+    "Id": 13583995,
+    "captureDate": "2018-10-10T07:09:25.863",
+    "value": 14.70,
+    "sensor": "Air Temperature Sensor"
+  },
+  {
+    "Id": 13583994,
+    "captureDate": "2018-10-10T07:09:25.863",
+    "value": 17.70,
+    "sensor": "Water Temperature Sensor"
+  },
+  {
+    "Id": 13583993,
+    "captureDate": "2018-10-10T07:09:25.863",
+    "value": 7.70,
+    "sensor": "pH Sensor"
+  },
+  {
+    "Id": 13583685,
+    "captureDate": "2018-10-10T06:59:25.963",
+    "value": 7.70,
+    "sensor": "pH Sensor"
+  },
+  {
+    "Id": 13583686,
+    "captureDate": "2018-10-10T06:59:25.963",
+    "value": 17.70,
+    "sensor": "Water Temperature Sensor"
+  },
+  {
+    "Id": 13583687,
+    "captureDate": "2018-10-10T06:59:25.963",
+    "value": 14.60,
+    "sensor": "Air Temperature Sensor"
+  },
+  {
+    "Id": 13583688,
+    "captureDate": "2018-10-10T06:59:25.963",
+    "value": 79.90,
+    "sensor": "Air Humidity Sensor"
+  },
+  {
+    "Id": 13583689,
+    "captureDate": "2018-10-10T06:59:25.963",
+    "value": 8.99,
+    "sensor": "External Air Temperature"
+  },
+  {
+    "Id": 13583690,
+    "captureDate": "2018-10-10T06:59:25.963",
+    "value": 93.00,
+    "sensor": "External Air Humidity"
+  },
+  {
+    "Id": 13583398,
+    "captureDate": "2018-10-10T06:49:29.01",
+    "value": 93.00,
+    "sensor": "External Air Humidity"
+  },
+  {
+    "Id": 13583397,
+    "captureDate": "2018-10-10T06:49:29.01",
+    "value": 8.99,
+    "sensor": "External Air Temperature"
+  },
+  {
+    "Id": 13583396,
+    "captureDate": "2018-10-10T06:49:29.01",
+    "value": 80.80,
+    "sensor": "Air Humidity Sensor"
+  },
+  {
+    "Id": 13583395,
+    "captureDate": "2018-10-10T06:49:29.01",
+    "value": 14.30,
+    "sensor": "Air Temperature Sensor"
+  },
+  {
+    "Id": 13583394,
+    "captureDate": "2018-10-10T06:49:29.01",
+    "value": 17.90,
+    "sensor": "Water Temperature Sensor"
+  },
+  {
+    "Id": 13583393,
+    "captureDate": "2018-10-10T06:49:29.01",
+    "value": 7.70,
+    "sensor": "pH Sensor"
+  },
+  {
+    "Id": 13583077,
+    "captureDate": "2018-10-10T06:39:25.767",
+    "value": 7.70,
+    "sensor": "pH Sensor"
+  },
+  {
+    "Id": 13583078,
+    "captureDate": "2018-10-10T06:39:25.767",
+    "value": 17.90,
+    "sensor": "Water Temperature Sensor"
+  },
+  {
+    "Id": 13583079,
+    "captureDate": "2018-10-10T06:39:25.767",
+    "value": 14.00,
+    "sensor": "Air Temperature Sensor"
+  },
+  {
+    "Id": 13583080,
+    "captureDate": "2018-10-10T06:39:25.767",
+    "value": 81.90,
+    "sensor": "Air Humidity Sensor"
+  },
+  {
+    "Id": 13583081,
+    "captureDate": "2018-10-10T06:39:25.767",
+    "value": 8.99,
+    "sensor": "External Air Temperature"
+  },
+  {
+    "Id": 13583082,
+    "captureDate": "2018-10-10T06:39:25.767",
+    "value": 93.00,
+    "sensor": "External Air Humidity"
+  },
+  {
+    "Id": 13582772,
+    "captureDate": "2018-10-10T06:29:25.987",
+    "value": 93.00,
+    "sensor": "External Air Humidity"
+  },
+  {
+    "Id": 13582771,
+    "captureDate": "2018-10-10T06:29:25.987",
+    "value": 8.99,
+    "sensor": "External Air Temperature"
+  },
+  {
+    "Id": 13582770,
+    "captureDate": "2018-10-10T06:29:25.987",
+    "value": 83.50,
+    "sensor": "Air Humidity Sensor"
+  },
+  {
+    "Id": 13582769,
+    "captureDate": "2018-10-10T06:29:25.987",
+    "value": 13.80,
+    "sensor": "Air Temperature Sensor"
+  },
+  {
+    "Id": 13582768,
+    "captureDate": "2018-10-10T06:29:25.987",
+    "value": 17.90,
+    "sensor": "Water Temperature Sensor"
+  },
+  {
+    "Id": 13582767,
+    "captureDate": "2018-10-10T06:29:25.987",
+    "value": 7.60,
+    "sensor": "pH Sensor"
+  },
+  {
+    "Id": 13582459,
+    "captureDate": "2018-10-10T06:19:25.89",
+    "value": 7.60,
+    "sensor": "pH Sensor"
+  },
+  {
+    "Id": 13582460,
+    "captureDate": "2018-10-10T06:19:25.89",
+    "value": 18.00,
+    "sensor": "Water Temperature Sensor"
+  },
+  {
+    "Id": 13582461,
+    "captureDate": "2018-10-10T06:19:25.89",
+    "value": 13.60,
+    "sensor": "Air Temperature Sensor"
+  },
+  {
+    "Id": 13582462,
+    "captureDate": "2018-10-10T06:19:25.89",
+    "value": 84.30,
+    "sensor": "Air Humidity Sensor"
+  },
+  {
+    "Id": 13582463,
+    "captureDate": "2018-10-10T06:19:25.89",
+    "value": 8.99,
+    "sensor": "External Air Temperature"
+  },
+  {
+    "Id": 13582464,
+    "captureDate": "2018-10-10T06:19:25.89",
+    "value": 93.00,
+    "sensor": "External Air Humidity"
+  },
+  {
+    "Id": 13582152,
+    "captureDate": "2018-10-10T06:09:25.767",
+    "value": 93.00,
+    "sensor": "External Air Humidity"
+  },
+  {
+    "Id": 13582151,
+    "captureDate": "2018-10-10T06:09:25.767",
+    "value": 8.47,
+    "sensor": "External Air Temperature"
+  },
+  {
+    "Id": 13582150,
+    "captureDate": "2018-10-10T06:09:25.767",
+    "value": 85.00,
+    "sensor": "Air Humidity Sensor"
+  },
+  {
+    "Id": 13582149,
+    "captureDate": "2018-10-10T06:09:25.767",
+    "value": 13.40,
+    "sensor": "Air Temperature Sensor"
+  },
+  {
+    "Id": 13582148,
+    "captureDate": "2018-10-10T06:09:25.767",
+    "value": 18.10,
+    "sensor": "Water Temperature Sensor"
+  },
+  {
+    "Id": 13582147,
+    "captureDate": "2018-10-10T06:09:25.767",
+    "value": 7.60,
+    "sensor": "pH Sensor"
+  },
+  {
+    "Id": 13581835,
+    "captureDate": "2018-10-10T05:59:25.82",
+    "value": 7.60,
+    "sensor": "pH Sensor"
+  },
+  {
+    "Id": 13581836,
+    "captureDate": "2018-10-10T05:59:25.82",
+    "value": 18.10,
+    "sensor": "Water Temperature Sensor"
+  },
+  {
+    "Id": 13581837,
+    "captureDate": "2018-10-10T05:59:25.82",
+    "value": 13.40,
+    "sensor": "Air Temperature Sensor"
+  },
+  {
+    "Id": 13581838,
+    "captureDate": "2018-10-10T05:59:25.82",
+    "value": 85.20,
+    "sensor": "Air Humidity Sensor"
+  },
+  {
+    "Id": 13581839,
+    "captureDate": "2018-10-10T05:59:25.82",
+    "value": 8.47,
+    "sensor": "External Air Temperature"
+  },
+  {
+    "Id": 13581840,
+    "captureDate": "2018-10-10T05:59:25.82",
+    "value": 93.00,
+    "sensor": "External Air Humidity"
+  },
+  {
+    "Id": 13581524,
+    "captureDate": "2018-10-10T05:49:25.72",
+    "value": 93.00,
+    "sensor": "External Air Humidity"
+  },
+  {
+    "Id": 13581523,
+    "captureDate": "2018-10-10T05:49:25.72",
+    "value": 8.47,
+    "sensor": "External Air Temperature"
+  },
+  {
+    "Id": 13581522,
+    "captureDate": "2018-10-10T05:49:25.72",
+    "value": 85.10,
+    "sensor": "Air Humidity Sensor"
+  },
+  {
+    "Id": 13581521,
+    "captureDate": "2018-10-10T05:49:25.72",
+    "value": 13.40,
+    "sensor": "Air Temperature Sensor"
+  },
+  {
+    "Id": 13581520,
+    "captureDate": "2018-10-10T05:49:25.72",
+    "value": 18.30,
+    "sensor": "Water Temperature Sensor"
+  },
+  {
+    "Id": 13581519,
+    "captureDate": "2018-10-10T05:49:25.72",
+    "value": 7.60,
+    "sensor": "pH Sensor"
+  },
+  {
+    "Id": 13581185,
+    "captureDate": "2018-10-10T05:39:25.923",
+    "value": 7.60,
+    "sensor": "pH Sensor"
+  },
+  {
+    "Id": 13581186,
+    "captureDate": "2018-10-10T05:39:25.923",
+    "value": 18.30,
+    "sensor": "Water Temperature Sensor"
+  },
+  {
+    "Id": 13581187,
+    "captureDate": "2018-10-10T05:39:25.923",
+    "value": 13.50,
+    "sensor": "Air Temperature Sensor"
+  },
+  {
+    "Id": 13581188,
+    "captureDate": "2018-10-10T05:39:25.923",
+    "value": 84.90,
+    "sensor": "Air Humidity Sensor"
+  },
+  {
+    "Id": 13581189,
+    "captureDate": "2018-10-10T05:39:25.923",
+    "value": 8.47,
+    "sensor": "External Air Temperature"
+  },
+  {
+    "Id": 13581190,
+    "captureDate": "2018-10-10T05:39:25.923",
+    "value": 93.00,
+    "sensor": "External Air Humidity"
+  },
+  {
+    "Id": 13580862,
+    "captureDate": "2018-10-10T05:29:25.887",
+    "value": 93.00,
+    "sensor": "External Air Humidity"
+  },
+  {
+    "Id": 13580861,
+    "captureDate": "2018-10-10T05:29:25.887",
+    "value": 8.43,
+    "sensor": "External Air Temperature"
+  },
+  {
+    "Id": 13580860,
+    "captureDate": "2018-10-10T05:29:25.887",
+    "value": 84.30,
+    "sensor": "Air Humidity Sensor"
+  },
+  {
+    "Id": 13580859,
+    "captureDate": "2018-10-10T05:29:25.887",
+    "value": 13.60,
+    "sensor": "Air Temperature Sensor"
+  },
+  {
+    "Id": 13580858,
+    "captureDate": "2018-10-10T05:29:25.887",
+    "value": 18.40,
+    "sensor": "Water Temperature Sensor"
+  },
+  {
+    "Id": 13580857,
+    "captureDate": "2018-10-10T05:29:25.887",
+    "value": 7.60,
+    "sensor": "pH Sensor"
+  },
+  {
+    "Id": 13580523,
+    "captureDate": "2018-10-10T05:19:25.64",
+    "value": 7.60,
+    "sensor": "pH Sensor"
+  },
+  {
+    "Id": 13580524,
+    "captureDate": "2018-10-10T05:19:25.64",
+    "value": 18.40,
+    "sensor": "Water Temperature Sensor"
+  },
+  {
+    "Id": 13580525,
+    "captureDate": "2018-10-10T05:19:25.64",
+    "value": 13.80,
+    "sensor": "Air Temperature Sensor"
+  },
+  {
+    "Id": 13580526,
+    "captureDate": "2018-10-10T05:19:25.64",
+    "value": 84.00,
+    "sensor": "Air Humidity Sensor"
+  },
+  {
+    "Id": 13580527,
+    "captureDate": "2018-10-10T05:19:25.64",
+    "value": 8.44,
+    "sensor": "External Air Temperature"
+  },
+  {
+    "Id": 13580528,
+    "captureDate": "2018-10-10T05:19:25.64",
+    "value": 93.00,
+    "sensor": "External Air Humidity"
+  },
+  {
+    "Id": 13580208,
+    "captureDate": "2018-10-10T05:09:25.73",
+    "value": 93.00,
+    "sensor": "External Air Humidity"
+  },
+  {
+    "Id": 13580207,
+    "captureDate": "2018-10-10T05:09:25.73",
+    "value": 8.99,
+    "sensor": "External Air Temperature"
+  },
+  {
+    "Id": 13580206,
+    "captureDate": "2018-10-10T05:09:25.73",
+    "value": 83.60,
+    "sensor": "Air Humidity Sensor"
+  },
+  {
+    "Id": 13580205,
+    "captureDate": "2018-10-10T05:09:25.73",
+    "value": 14.00,
+    "sensor": "Air Temperature Sensor"
+  },
+  {
+    "Id": 13580204,
+    "captureDate": "2018-10-10T05:09:25.73",
+    "value": 18.60,
+    "sensor": "Water Temperature Sensor"
+  },
+  {
+    "Id": 13580203,
+    "captureDate": "2018-10-10T05:09:25.73",
+    "value": 7.60,
+    "sensor": "pH Sensor"
+  },
+  {
+    "Id": 13579877,
+    "captureDate": "2018-10-10T04:59:26.323",
+    "value": 7.60,
+    "sensor": "pH Sensor"
+  },
+  {
+    "Id": 13579878,
+    "captureDate": "2018-10-10T04:59:26.323",
+    "value": 18.60,
+    "sensor": "Water Temperature Sensor"
+  },
+  {
+    "Id": 13579879,
+    "captureDate": "2018-10-10T04:59:26.323",
+    "value": 14.00,
+    "sensor": "Air Temperature Sensor"
+  },
+  {
+    "Id": 13579880,
+    "captureDate": "2018-10-10T04:59:26.323",
+    "value": 83.70,
+    "sensor": "Air Humidity Sensor"
+  },
+  {
+    "Id": 13579881,
+    "captureDate": "2018-10-10T04:59:26.323",
+    "value": 8.99,
+    "sensor": "External Air Temperature"
+  },
+  {
+    "Id": 13579882,
+    "captureDate": "2018-10-10T04:59:26.323",
+    "value": 93.00,
+    "sensor": "External Air Humidity"
+  },
+  {
+    "Id": 13579238,
+    "captureDate": "2018-10-10T04:39:18.977",
+    "value": 93.00,
+    "sensor": "External Air Humidity"
+  },
+  {
+    "Id": 13579237,
+    "captureDate": "2018-10-10T04:39:18.977",
+    "value": 9.47,
+    "sensor": "External Air Temperature"
+  },
+  {
+    "Id": 13579235,
+    "captureDate": "2018-10-10T04:39:18.977",
+    "value": 85.00,
+    "sensor": "Air Humidity Sensor"
+  },
+  {
+    "Id": 13579233,
+    "captureDate": "2018-10-10T04:39:18.977",
+    "value": 13.90,
+    "sensor": "Air Temperature Sensor"
+  },
+  {
+    "Id": 13579231,
+    "captureDate": "2018-10-10T04:39:18.977",
+    "value": 18.70,
+    "sensor": "Water Temperature Sensor"
+  },
+  {
+    "Id": 13579228,
+    "captureDate": "2018-10-10T04:39:18.977",
+    "value": 7.60,
+    "sensor": "pH Sensor"
+  },
+  {
+    "Id": 13578882,
+    "captureDate": "2018-10-10T04:29:18.957",
+    "value": 7.60,
+    "sensor": "pH Sensor"
+  },
+  {
+    "Id": 13578884,
+    "captureDate": "2018-10-10T04:29:18.957",
+    "value": 18.90,
+    "sensor": "Water Temperature Sensor"
+  },
+  {
+    "Id": 13578886,
+    "captureDate": "2018-10-10T04:29:18.957",
+    "value": 13.90,
+    "sensor": "Air Temperature Sensor"
+  },
+  {
+    "Id": 13578888,
+    "captureDate": "2018-10-10T04:29:18.957",
+    "value": 85.00,
+    "sensor": "Air Humidity Sensor"
+  },
+  {
+    "Id": 13578890,
+    "captureDate": "2018-10-10T04:29:18.957",
+    "value": 9.47,
+    "sensor": "External Air Temperature"
+  },
+  {
+    "Id": 13578892,
+    "captureDate": "2018-10-10T04:29:18.957",
+    "value": 93.00,
+    "sensor": "External Air Humidity"
+  },
+  {
+    "Id": 13578576,
+    "captureDate": "2018-10-10T04:19:18.95",
+    "value": 93.00,
+    "sensor": "External Air Humidity"
+  },
+  {
+    "Id": 13578575,
+    "captureDate": "2018-10-10T04:19:18.95",
+    "value": 9.47,
+    "sensor": "External Air Temperature"
+  },
+  {
+    "Id": 13578574,
+    "captureDate": "2018-10-10T04:19:18.95",
+    "value": 84.40,
+    "sensor": "Air Humidity Sensor"
+  },
+  {
+    "Id": 13578573,
+    "captureDate": "2018-10-10T04:19:18.95",
+    "value": 14.00,
+    "sensor": "Air Temperature Sensor"
+  },
+  {
+    "Id": 13578572,
+    "captureDate": "2018-10-10T04:19:18.95",
+    "value": 18.90,
+    "sensor": "Water Temperature Sensor"
+  },
+  {
+    "Id": 13578571,
+    "captureDate": "2018-10-10T04:19:18.95",
+    "value": 7.60,
+    "sensor": "pH Sensor"
+  },
+  {
+    "Id": 13578247,
+    "captureDate": "2018-10-10T04:09:18.823",
+    "value": 7.60,
+    "sensor": "pH Sensor"
+  },
+  {
+    "Id": 13578248,
+    "captureDate": "2018-10-10T04:09:18.823",
+    "value": 19.00,
+    "sensor": "Water Temperature Sensor"
+  },
+  {
+    "Id": 13578249,
+    "captureDate": "2018-10-10T04:09:18.823",
+    "value": 14.00,
+    "sensor": "Air Temperature Sensor"
+  },
+  {
+    "Id": 13578251,
+    "captureDate": "2018-10-10T04:09:18.823",
+    "value": 84.30,
+    "sensor": "Air Humidity Sensor"
+  }
+]
